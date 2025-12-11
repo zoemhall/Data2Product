@@ -1,10 +1,10 @@
 # Data2Product
 Zoe Hall and Arancha Ramirez  
 Data to Product submission  
-11 Dec 2025  
+11 Dec 2025 
   
 Directory:  
-1. Data Exploration  
+1. Data Exploration  (using original UN and OECD database)
    --> Assumption testing  
    --> Data Imputation  
 2. Testing prescriptive models  
@@ -25,3 +25,13 @@ Directory:
      - Final_Country_Waste_Analysis.csv (Full database created in Testing prescriptive models)  
      - Forecasting_data.csv (originally FOR FORECASTING.csv, enables user controlled forecasting by including imputed data)  
      - UN_Trimmed_1988-2024.csv (original UN database, export import and value for plastic waste trade)  
+  
+R packages installed:  
+- dplyr  
+- tidyr  
+- zoo  
+- tsibble  
+- fpp3  
+- readr   
+- ggplot2  
+- ggtext  
