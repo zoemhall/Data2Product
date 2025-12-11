@@ -1,0 +1,2672 @@
+﻿LOCATION_CODES,Location,PLASTICS_CODES,Plastic end of life fates,TIME_PERIOD,OBS_VALUE
+OAM,Other OECD America,LIT,Littered,2019,0.040186
+ODA,Other non-OECD Asia,TOTAL,Total,2019,25.46238
+OPA,OECD Asia,LAN,Landfilled,2019,1.73161
+OCE,OECD Oceania,MIS,Mismanaged,2019,0.124666
+RAN,Other Eurasia,INC,Incinerated,2019,0.171116
+MEN,Middle East & North Africa,TOTAL,Total,2019,16.91715
+EU5,Other EU,REC,Recycled,2019,0.147028
+OE6,OECD Non-EU,INC,Incinerated,2019,3.759428
+OAM,Other OECD America,INC,Incinerated,2019,0.054668
+ODA,Other non-OECD Asia,LAN,Landfilled,2019,10.609316
+EU5,Other EU,MIS,Mismanaged,2019,0.25695
+OPA,OECD Asia,TOTAL,Total,2019,12.250182
+RAN,Other Eurasia,LIT,Littered,2019,0.048614
+OCE,OECD Oceania,REC,Recycled,2019,0.130055
+O22,OECD EU,TOTAL,Total,2019,50.671286
+MEN,Middle East & North Africa,LAN,Landfilled,2019,9.160226
+OE6,OECD Non-EU,LIT,Littered,2019,0.031191
+OAF,Other Africa,INC,Incinerated,2019,0.082107
+ODA,Other non-OECD Asia,INC,Incinerated,2019,1.115846
+EU5,Other EU,LAN,Landfilled,2019,1.958309
+OPA,OECD Asia,LIT,Littered,2019,0.024566
+RAN,Other Eurasia,MIS,Mismanaged,2019,6.562043
+LAM,Latin America,INC,Incinerated,2019,0.109527
+O22,OECD EU,LAN,Landfilled,2019,18.813869
+OAF,Other Africa,REC,Recycled,2019,0.929337
+OE6,OECD Non-EU,MIS,Mismanaged,2019,1.321256
+EU5,Other EU,TOTAL,Total,2019,2.432935
+ODA,Other non-OECD Asia,LIT,Littered,2019,0.119188
+OPA,OECD Asia,INC,Incinerated,2019,8.776591
+LAM,Latin America,LIT,Littered,2019,0.070147
+OAF,Other Africa,MIS,Mismanaged,2019,10.251547
+OE6,OECD Non-EU,REC,Recycled,2019,1.246805
+OAM,Other OECD America,REC,Recycled,2019,1.183822
+ODA,Other non-OECD Asia,MIS,Mismanaged,2019,11.334832
+EU5,Other EU,LIT,Littered,2019,0.006771
+O22,OECD EU,INC,Incinerated,2019,22.350366
+OCE,OECD Oceania,TOTAL,Total,2019,1.892815
+LAM,Latin America,MIS,Mismanaged,2019,8.089722
+O22,OECD EU,LIT,Littered,2019,0.092473
+MEN,Middle East & North Africa,INC,Incinerated,2019,0.102777
+OE6,OECD Non-EU,TOTAL,Total,2019,16.234798
+OAF,Other Africa,LAN,Landfilled,2019,4.902004
+OAM,Other OECD America,MIS,Mismanaged,2019,2.337389
+OCE,OECD Oceania,LAN,Landfilled,2019,1.417077
+RAN,Other Eurasia,REC,Recycled,2019,0.793023
+MEN,Middle East & North Africa,LIT,Littered,2019,0.057504
+LAM,Latin America,REC,Recycled,2019,1.992802
+EU5,Other EU,INC,Incinerated,2019,0.063877
+OE6,OECD Non-EU,LAN,Landfilled,2019,9.876118
+OAF,Other Africa,TOTAL,Total,2019,16.249045
+OAM,Other OECD America,LAN,Landfilled,2019,7.997318
+OPA,OECD Asia,REC,Recycled,2019,1.463308
+RAN,Other Eurasia,TOTAL,Total,2019,16.64482
+OCE,OECD Oceania,INC,Incinerated,2019,0.21783
+LAM,Latin America,TOTAL,Total,2019,19.492385
+MEN,Middle East & North Africa,MIS,Mismanaged,2019,6.675025
+OAF,Other Africa,LIT,Littered,2019,0.084051
+OAM,Other OECD America,TOTAL,Total,2019,11.613382
+OPA,OECD Asia,MIS,Mismanaged,2019,0.254107
+ODA,Other non-OECD Asia,REC,Recycled,2019,2.283199
+O22,OECD EU,REC,Recycled,2019,7.193393
+RAN,Other Eurasia,LAN,Landfilled,2019,9.070024
+OCE,OECD Oceania,LIT,Littered,2019,0.003187
+LAM,Latin America,LAN,Landfilled,2019,9.230186
+O22,OECD EU,MIS,Mismanaged,2019,2.221185
+MEN,Middle East & North Africa,REC,Recycled,2019,0.921618
+USA1,United States,REC,Recycled,2019,3.26975
+USA1,United States,INC,Incinerated,2019,13.897049
+USA1,United States,LAN,Landfilled,2019,53.086564
+USA1,United States,MIS,Mismanaged,2019,2.448288
+USA1,United States,LIT,Littered,2019,0.139407
+USA1,United States,TOTAL,Total,2019,72.841058
+CAN1,Canada,REC,Recycled,2019,0.42892
+CAN1,Canada,INC,Incinerated,2019,0.273282
+CAN1,Canada,LAN,Landfilled,2019,5.454918
+CAN1,Canada,MIS,Mismanaged,2019,0.461986
+CAN1,Canada,LIT,Littered,2019,0.012739
+CAN1,Canada,TOTAL,Total,2019,6.631845
+CHN1,China,REC,Recycled,2019,8.376888
+CHN1,China,INC,Incinerated,2019,15.550022
+CHN1,China,LAN,Landfilled,2019,23.809201
+CHN1,China,MIS,Mismanaged,2019,17.462667
+CHN1,China,LIT,Littered,2019,0.239827
+CHN1,China,TOTAL,Total,2019,65.438605
+IND1,India,REC,Recycled,2019,2.469077
+IND1,India,INC,Incinerated,2019,0.770517
+IND1,India,LAN,Landfilled,2019,6.720652
+IND1,India,TOTAL,Total,2019,18.518411
+IND1,India,MIS,Mismanaged,2019,8.457541
+IND1,India,LIT,Littered,2019,0.100624
+OAM,Other OECD America,LIT,Littered,2018,0.039274
+ODA,Other non-OECD Asia,TOTAL,Total,2018,24.517797
+OPA,OECD Asia,LAN,Landfilled,2018,1.680675
+OCE,OECD Oceania,MIS,Mismanaged,2018,0.122146
+RAN,Other Eurasia,INC,Incinerated,2018,0.126616
+MEN,Middle East & North Africa,TOTAL,Total,2018,16.345006
+OE6,OECD Non-EU,INC,Incinerated,2018,3.594269
+OAM,Other OECD America,INC,Incinerated,2018,0.040615
+EU5,Other EU,REC,Recycled,2018,0.13828
+ODA,Other non-OECD Asia,LAN,Landfilled,2018,10.132723
+EU5,Other EU,MIS,Mismanaged,2018,0.255565
+OPA,OECD Asia,TOTAL,Total,2018,11.925862
+RAN,Other Eurasia,LIT,Littered,2018,0.047646
+OCE,OECD Oceania,REC,Recycled,2018,0.119763
+O22,OECD EU,TOTAL,Total,2018,49.683711
+MEN,Middle East & North Africa,LAN,Landfilled,2018,8.842667
+OE6,OECD Non-EU,LIT,Littered,2018,0.030309
+ODA,Other non-OECD Asia,INC,Incinerated,2018,1.039834
+EU5,Other EU,LAN,Landfilled,2018,1.895924
+OPA,OECD Asia,LIT,Littered,2018,0.024084
+RAN,Other Eurasia,MIS,Mismanaged,2018,6.439712
+LAM,Latin America,INC,Incinerated,2018,0.079507
+O22,OECD EU,LAN,Landfilled,2018,18.480282
+OAF,Other Africa,REC,Recycled,2018,0.876343
+OE6,OECD Non-EU,MIS,Mismanaged,2018,1.32153
+EU5,Other EU,TOTAL,Total,2018,2.355159
+ODA,Other non-OECD Asia,LIT,Littered,2018,0.115511
+OPA,OECD Asia,INC,Incinerated,2018,8.582843
+LAM,Latin America,LIT,Littered,2018,0.068167
+OAF,Other Africa,MIS,Mismanaged,2018,9.966291
+OE6,OECD Non-EU,REC,Recycled,2018,1.177598
+OAM,Other OECD America,REC,Recycled,2018,1.126405
+ODA,Other non-OECD Asia,MIS,Mismanaged,2018,11.083074
+EU5,Other EU,LIT,Littered,2018,0.00655
+O22,OECD EU,INC,Incinerated,2018,21.986188
+OCE,OECD Oceania,TOTAL,Total,2018,1.790679
+LAM,Latin America,MIS,Mismanaged,2018,7.895938
+O22,OECD EU,LIT,Littered,2018,0.090667
+MEN,Middle East & North Africa,INC,Incinerated,2018,0.072601
+OE6,OECD Non-EU,TOTAL,Total,2018,15.746926
+OAF,Other Africa,LAN,Landfilled,2018,4.737664
+OAM,Other OECD America,MIS,Mismanaged,2018,2.323883
+OCE,OECD Oceania,LAN,Landfilled,2018,1.339241
+RAN,Other Eurasia,REC,Recycled,2018,0.751458
+MEN,Middle East & North Africa,LIT,Littered,2018,0.055713
+LAM,Latin America,REC,Recycled,2018,1.877878
+EU5,Other EU,INC,Incinerated,2018,0.05884
+OE6,OECD Non-EU,LAN,Landfilled,2018,9.62322
+OAF,Other Africa,TOTAL,Total,2018,15.661993
+OAM,Other OECD America,LAN,Landfilled,2018,7.814518
+OPA,OECD Asia,REC,Recycled,2018,1.385336
+RAN,Other Eurasia,TOTAL,Total,2018,16.156753
+OCE,OECD Oceania,INC,Incinerated,2018,0.206472
+LAM,Latin America,TOTAL,Total,2018,18.836334
+MEN,Middle East & North Africa,MIS,Mismanaged,2018,6.506718
+OAF,Other Africa,LIT,Littered,2018,0.081695
+ODA,Other non-OECD Asia,REC,Recycled,2018,2.146655
+OAM,Other OECD America,TOTAL,Total,2018,11.344694
+OPA,OECD Asia,MIS,Mismanaged,2018,0.252924
+O22,OECD EU,REC,Recycled,2018,6.87217
+RAN,Other Eurasia,LAN,Landfilled,2018,8.791321
+O22,OECD EU,MIS,Mismanaged,2018,2.254403
+OCE,OECD Oceania,LIT,Littered,2018,0.003057
+LAM,Latin America,LAN,Landfilled,2018,8.914843
+MEN,Middle East & North Africa,REC,Recycled,2018,0.867307
+USA1,United States,REC,Recycled,2018,3.123337
+USA1,United States,INC,Incinerated,2018,13.625549
+USA1,United States,LAN,Landfilled,2018,52.106584
+USA1,United States,MIS,Mismanaged,2018,2.587329
+USA1,United States,LIT,Littered,2018,0.136877
+USA1,United States,TOTAL,Total,2018,71.579676
+CAN1,Canada,REC,Recycled,2018,0.410013
+CAN1,Canada,INC,Incinerated,2018,0.266649
+CAN1,Canada,LAN,Landfilled,2018,5.366679
+CAN1,Canada,MIS,Mismanaged,2018,0.467924
+CAN1,Canada,LIT,Littered,2018,0.01255
+CAN1,Canada,TOTAL,Total,2018,6.523816
+CHN1,China,REC,Recycled,2018,7.792353
+CHN1,China,INC,Incinerated,2018,14.931927
+CHN1,China,LAN,Landfilled,2018,22.391112
+CHN1,China,MIS,Mismanaged,2018,17.046953
+CHN1,China,LIT,Littered,2018,0.230173
+CHN1,China,TOTAL,Total,2018,62.392517
+IND1,India,REC,Recycled,2018,2.262457
+IND1,India,INC,Incinerated,2018,0.700646
+IND1,India,LAN,Landfilled,2018,6.200435
+IND1,India,TOTAL,Total,2018,17.37813
+IND1,India,MIS,Mismanaged,2018,8.119849
+IND1,India,LIT,Littered,2018,0.094744
+OAM,Other OECD America,LIT,Littered,1990,0.013162
+ODA,Other non-OECD Asia,TOTAL,Total,1990,1.565222
+OPA,OECD Asia,LAN,Landfilled,1990,2.296125
+OCE,OECD Oceania,MIS,Mismanaged,1990,0.020507
+RAN,Other Eurasia,INC,Incinerated,1990,0.013248
+MEN,Middle East & North Africa,TOTAL,Total,1990,3.646374
+EU5,Other EU,REC,Recycled,1990,0.001384
+OE6,OECD Non-EU,INC,Incinerated,1990,0.303708
+OAM,Other OECD America,INC,Incinerated,1990,0.013246
+ODA,Other non-OECD Asia,LAN,Landfilled,1990,0.49162
+EU5,Other EU,MIS,Mismanaged,1990,0.138422
+OPA,OECD Asia,TOTAL,Total,1990,3.059093
+RAN,Other Eurasia,LIT,Littered,1990,0.010221
+OCE,OECD Oceania,REC,Recycled,1990,0.002962
+O22,OECD EU,TOTAL,Total,1990,21.48177
+MEN,Middle East & North Africa,LAN,Landfilled,1990,1.780652
+OE6,OECD Non-EU,LIT,Littered,1990,0.011067
+ODA,Other non-OECD Asia,INC,Incinerated,1990,0.018934
+OPA,OECD Asia,LIT,Littered,1990,0.007045
+RAN,Other Eurasia,MIS,Mismanaged,1990,1.285029
+EU5,Other EU,LAN,Landfilled,1990,0.577372
+LAM,Latin America,INC,Incinerated,1990,0.009545
+O22,OECD EU,LAN,Landfilled,1990,17.522628
+OAF,Other Africa,REC,Recycled,1990,0.030755
+OE6,OECD Non-EU,MIS,Mismanaged,1990,0.932377
+EU5,Other EU,TOTAL,Total,1990,0.725921
+ODA,Other non-OECD Asia,LIT,Littered,1990,0.008764
+OPA,OECD Asia,INC,Incinerated,1990,0.275789
+LAM,Latin America,LIT,Littered,1990,0.00927
+OAF,Other Africa,MIS,Mismanaged,1990,1.417297
+OE6,OECD Non-EU,REC,Recycled,1990,0.012024
+OAM,Other OECD America,REC,Recycled,1990,0.095778
+ODA,Other non-OECD Asia,MIS,Mismanaged,1990,1.0048
+EU5,Other EU,LIT,Littered,1990,0.002256
+O22,OECD EU,INC,Incinerated,1990,0.425458
+OCE,OECD Oceania,TOTAL,Total,1990,0.144823
+LAM,Latin America,MIS,Mismanaged,1990,1.382173
+O22,OECD EU,LIT,Littered,1990,0.045776
+MEN,Middle East & North Africa,INC,Incinerated,1990,0.01392
+OE6,OECD Non-EU,TOTAL,Total,1990,5.141839
+OAF,Other Africa,LAN,Landfilled,1990,0.519844
+OAM,Other OECD America,MIS,Mismanaged,1990,0.99183
+OCE,OECD Oceania,LAN,Landfilled,1990,0.109215
+RAN,Other Eurasia,REC,Recycled,1990,0.039951
+MEN,Middle East & North Africa,LIT,Littered,1990,0.013174
+LAM,Latin America,REC,Recycled,1990,0.064017
+EU5,Other EU,INC,Incinerated,1990,0.006486
+OE6,OECD Non-EU,LAN,Landfilled,1990,3.882664
+OPA,OECD Asia,REC,Recycled,1990,0.010966
+OAF,Other Africa,TOTAL,Total,1990,1.979081
+OAM,Other OECD America,LAN,Landfilled,1990,2.453906
+RAN,Other Eurasia,TOTAL,Total,1990,3.146168
+CHN1,China,TOTAL,Total,1990,5.05426
+OCE,OECD Oceania,INC,Incinerated,1990,0.011839
+LAM,Latin America,TOTAL,Total,1990,2.339547
+MEN,Middle East & North Africa,MIS,Mismanaged,1990,1.786028
+OAF,Other Africa,LIT,Littered,1990,0.011184
+ODA,Other non-OECD Asia,REC,Recycled,1990,0.041103
+OAM,Other OECD America,TOTAL,Total,1990,3.567922
+OPA,OECD Asia,MIS,Mismanaged,1990,0.469168
+O22,OECD EU,REC,Recycled,1990,0.091407
+RAN,Other Eurasia,LAN,Landfilled,1990,1.79772
+OCE,OECD Oceania,LIT,Littered,1990,0.000299
+LAM,Latin America,LAN,Landfilled,1990,0.874542
+O22,OECD EU,MIS,Mismanaged,1990,3.396501
+MEN,Middle East & North Africa,REC,Recycled,1990,0.0526
+USA1,United States,REC,Recycled,1990,0.389607
+USA1,United States,INC,Incinerated,1990,4.06995
+USA1,United States,LAN,Landfilled,1990,23.17026
+USA1,United States,MIS,Mismanaged,1990,3.076799
+USA1,United States,LIT,Littered,1990,0.06548
+USA1,United States,TOTAL,Total,1990,30.772095
+CAN1,Canada,REC,Recycled,1990,0.035997
+CAN1,Canada,INC,Incinerated,1990,0.09131
+CAN1,Canada,LAN,Landfilled,1990,2.185819
+CAN1,Canada,MIS,Mismanaged,1990,0.378715
+CAN1,Canada,LIT,Littered,1990,0.005747
+CAN1,Canada,TOTAL,Total,1990,2.697588
+CHN1,China,REC,Recycled,1990,0.023336
+CHN1,China,INC,Incinerated,1990,0.060086
+CHN1,China,LAN,Landfilled,1990,1.036074
+CHN1,China,MIS,Mismanaged,1990,3.913814
+CHN1,China,LIT,Littered,1990,0.02095
+IND1,India,REC,Recycled,1990,0.004266
+IND1,India,INC,Incinerated,1990,0.004378
+IND1,India,LAN,Landfilled,1990,0.172368
+IND1,India,MIS,Mismanaged,1990,0.683867
+IND1,India,LIT,Littered,1990,0.005343
+IND1,India,TOTAL,Total,1990,0.870222
+OAM,Other OECD America,LIT,Littered,1991,0.01371
+ODA,Other non-OECD Asia,TOTAL,Total,1991,1.79423
+OPA,OECD Asia,LAN,Landfilled,1991,2.356621
+OCE,OECD Oceania,MIS,Mismanaged,1991,0.022502
+RAN,Other Eurasia,INC,Incinerated,1991,0.014555
+MEN,Middle East & North Africa,TOTAL,Total,1991,3.86229
+EU5,Other EU,REC,Recycled,1991,0.002927
+OE6,OECD Non-EU,INC,Incinerated,1991,0.348051
+OAM,Other OECD America,INC,Incinerated,1991,0.01381
+ODA,Other non-OECD Asia,LAN,Landfilled,1991,0.569275
+EU5,Other EU,MIS,Mismanaged,1991,0.143164
+OPA,OECD Asia,TOTAL,Total,1991,3.224169
+RAN,Other Eurasia,LIT,Littered,1991,0.010868
+OCE,OECD Oceania,REC,Recycled,1991,0.003618
+O22,OECD EU,TOTAL,Total,1991,22.331526
+MEN,Middle East & North Africa,LAN,Landfilled,1991,1.893106
+OE6,OECD Non-EU,LIT,Littered,1991,0.011497
+ODA,Other non-OECD Asia,INC,Incinerated,1991,0.023557
+OPA,OECD Asia,LIT,Littered,1991,0.007377
+RAN,Other Eurasia,MIS,Mismanaged,1991,1.369198
+EU5,Other EU,LAN,Landfilled,1991,0.606239
+LAM,Latin America,INC,Incinerated,1991,0.010518
+O22,OECD EU,LAN,Landfilled,1991,17.903186
+OAF,Other Africa,REC,Recycled,1991,0.037097
+OE6,OECD Non-EU,MIS,Mismanaged,1991,0.958104
+EU5,Other EU,TOTAL,Total,1991,0.7619
+ODA,Other non-OECD Asia,LIT,Littered,1991,0.010007
+OPA,OECD Asia,INC,Incinerated,1991,0.356022
+LAM,Latin America,LIT,Littered,1991,0.010171
+OAF,Other Africa,MIS,Mismanaged,1991,1.555273
+OE6,OECD Non-EU,REC,Recycled,1991,0.025347
+OAM,Other OECD America,REC,Recycled,1991,0.109771
+ODA,Other non-OECD Asia,MIS,Mismanaged,1991,1.139738
+EU5,Other EU,LIT,Littered,1991,0.002352
+O22,OECD EU,INC,Incinerated,1991,0.737339
+OCE,OECD Oceania,TOTAL,Total,1991,0.161783
+LAM,Latin America,MIS,Mismanaged,1991,1.507241
+O22,OECD EU,LIT,Littered,1991,0.047207
+MEN,Middle East & North Africa,INC,Incinerated,1991,0.014794
+OE6,OECD Non-EU,TOTAL,Total,1991,5.379187
+OAF,Other Africa,LAN,Landfilled,1991,0.575674
+OAM,Other OECD America,MIS,Mismanaged,1991,1.029434
+OCE,OECD Oceania,LAN,Landfilled,1991,0.121913
+RAN,Other Eurasia,REC,Recycled,1991,0.046733
+MEN,Middle East & North Africa,LIT,Littered,1991,0.013892
+LAM,Latin America,REC,Recycled,1991,0.077264
+EU5,Other EU,INC,Incinerated,1991,0.007218
+OE6,OECD Non-EU,LAN,Landfilled,1991,4.036189
+OPA,OECD Asia,REC,Recycled,1991,0.023333
+OAF,Other Africa,TOTAL,Total,1991,2.180309
+OAM,Other OECD America,LAN,Landfilled,1991,2.570119
+RAN,Other Eurasia,TOTAL,Total,1991,3.355018
+OCE,OECD Oceania,INC,Incinerated,1991,0.013415
+LAM,Latin America,TOTAL,Total,1991,2.577263
+MEN,Middle East & North Africa,MIS,Mismanaged,1991,1.879504
+OAF,Other Africa,LIT,Littered,1991,0.012264
+ODA,Other non-OECD Asia,REC,Recycled,1991,0.051652
+OAM,Other OECD America,TOTAL,Total,1991,3.736846
+OPA,OECD Asia,MIS,Mismanaged,1991,0.480816
+O22,OECD EU,REC,Recycled,1991,0.191591
+RAN,Other Eurasia,LAN,Landfilled,1991,1.913663
+OCE,OECD Oceania,LIT,Littered,1991,0.000335
+LAM,Latin America,LAN,Landfilled,1991,0.972069
+O22,OECD EU,MIS,Mismanaged,1991,3.452203
+MEN,Middle East & North Africa,REC,Recycled,1991,0.060994
+USA1,United States,REC,Recycled,1991,0.438192
+USA1,United States,INC,Incinerated,1991,4.296759
+USA1,United States,LAN,Landfilled,1991,24.070287
+USA1,United States,MIS,Mismanaged,1991,3.129967
+USA1,United States,LIT,Littered,1991,0.067647
+USA1,United States,TOTAL,Total,1991,32.002852
+CAN1,Canada,REC,Recycled,1991,0.042115
+CAN1,Canada,INC,Incinerated,1991,0.095694
+CAN1,Canada,LAN,Landfilled,1991,2.276883
+CAN1,Canada,MIS,Mismanaged,1991,0.387808
+CAN1,Canada,LIT,Littered,1991,0.005944
+CAN1,Canada,TOTAL,Total,1991,2.808443
+CHN1,China,REC,Recycled,1991,0.051711
+CHN1,China,INC,Incinerated,1991,0.111256
+CHN1,China,LAN,Landfilled,1991,1.210144
+CHN1,China,MIS,Mismanaged,1991,4.368549
+CHN1,China,LIT,Littered,1991,0.023753
+CHN1,China,TOTAL,Total,1991,5.765414
+IND1,India,REC,Recycled,1991,0.009839
+IND1,India,INC,Incinerated,1991,0.006327
+IND1,India,LAN,Landfilled,1991,0.207982
+IND1,India,MIS,Mismanaged,1991,0.793271
+IND1,India,LIT,Littered,1991,0.00624
+IND1,India,TOTAL,Total,1991,1.023659
+OAM,Other OECD America,LIT,Littered,1992,0.014417
+ODA,Other non-OECD Asia,TOTAL,Total,1992,2.064761
+OPA,OECD Asia,LAN,Landfilled,1992,2.433434
+OCE,OECD Oceania,MIS,Mismanaged,1992,0.024785
+RAN,Other Eurasia,INC,Incinerated,1992,0.016099
+MEN,Middle East & North Africa,TOTAL,Total,1992,4.116514
+EU5,Other EU,REC,Recycled,1992,0.004653
+OE6,OECD Non-EU,INC,Incinerated,1992,0.398581
+OAM,Other OECD America,INC,Incinerated,1992,0.014535
+ODA,Other non-OECD Asia,LAN,Landfilled,1992,0.661775
+EU5,Other EU,MIS,Mismanaged,1992,0.148581
+OPA,OECD Asia,TOTAL,Total,1992,3.422095
+RAN,Other Eurasia,LIT,Littered,1992,0.011655
+OCE,OECD Oceania,REC,Recycled,1992,0.004404
+O22,OECD EU,TOTAL,Total,1992,23.351925
+MEN,Middle East & North Africa,LAN,Landfilled,1992,2.025175
+OE6,OECD Non-EU,LIT,Littered,1992,0.012057
+ODA,Other non-OECD Asia,INC,Incinerated,1992,0.02925
+EU5,Other EU,LAN,Landfilled,1992,0.638938
+OPA,OECD Asia,LIT,Littered,1992,0.007797
+RAN,Other Eurasia,MIS,Mismanaged,1992,1.466068
+LAM,Latin America,INC,Incinerated,1992,0.011693
+O22,OECD EU,LAN,Landfilled,1992,18.390845
+OAF,Other Africa,REC,Recycled,1992,0.044736
+OE6,OECD Non-EU,MIS,Mismanaged,1992,0.99029
+EU5,Other EU,TOTAL,Total,1992,0.802693
+ODA,Other non-OECD Asia,LIT,Littered,1992,0.011475
+OPA,OECD Asia,INC,Incinerated,1992,0.44777
+LAM,Latin America,LIT,Littered,1992,0.011261
+OAF,Other Africa,MIS,Mismanaged,1992,1.718835
+OE6,OECD Non-EU,REC,Recycled,1992,0.040292
+OAM,Other OECD America,REC,Recycled,1992,0.125792
+ODA,Other non-OECD Asia,MIS,Mismanaged,1992,1.297694
+EU5,Other EU,LIT,Littered,1992,0.002471
+O22,OECD EU,INC,Incinerated,1992,1.0826
+OCE,OECD Oceania,TOTAL,Total,1992,0.181496
+LAM,Latin America,MIS,Mismanaged,1992,1.654484
+O22,OECD EU,LIT,Littered,1992,0.049122
+MEN,Middle East & North Africa,INC,Incinerated,1992,0.015864
+OE6,OECD Non-EU,TOTAL,Total,1992,5.663207
+OAF,Other Africa,LAN,Landfilled,1992,0.642084
+OAM,Other OECD America,MIS,Mismanaged,1992,1.075264
+OCE,OECD Oceania,LAN,Landfilled,1992,0.136667
+RAN,Other Eurasia,REC,Recycled,1992,0.054646
+MEN,Middle East & North Africa,LIT,Littered,1992,0.014783
+LAM,Latin America,REC,Recycled,1992,0.093185
+EU5,Other EU,INC,Incinerated,1992,0.008049
+OE6,OECD Non-EU,LAN,Landfilled,1992,4.221987
+OAF,Other Africa,TOTAL,Total,1992,2.41923
+OAM,Other OECD America,LAN,Landfilled,1992,2.709408
+OPA,OECD Asia,REC,Recycled,1992,0.037431
+RAN,Other Eurasia,TOTAL,Total,1992,3.595664
+OCE,OECD Oceania,INC,Incinerated,1992,0.015262
+LAM,Latin America,TOTAL,Total,1992,2.858369
+MEN,Middle East & North Africa,MIS,Mismanaged,1992,1.989965
+OAF,Other Africa,LIT,Littered,1992,0.013575
+ODA,Other non-OECD Asia,REC,Recycled,1992,0.064567
+OAM,Other OECD America,TOTAL,Total,1992,3.939417
+OPA,OECD Asia,MIS,Mismanaged,1992,0.495664
+O22,OECD EU,REC,Recycled,1992,0.302712
+RAN,Other Eurasia,LAN,Landfilled,1992,2.047196
+OCE,OECD Oceania,LIT,Littered,1992,0.000378
+LAM,Latin America,LAN,Landfilled,1992,1.087746
+O22,OECD EU,MIS,Mismanaged,1992,3.526645
+MEN,Middle East & North Africa,REC,Recycled,1992,0.070727
+USA1,United States,REC,Recycled,1992,0.493862
+USA1,United States,INC,Incinerated,1992,4.560172
+USA1,United States,LAN,Landfilled,1992,25.138705
+USA1,United States,LIT,Littered,1992,0.070487
+USA1,United States,TOTAL,Total,1992,33.46235
+USA1,United States,MIS,Mismanaged,1992,3.199124
+CAN1,Canada,REC,Recycled,1992,0.049064
+CAN1,Canada,INC,Incinerated,1992,0.100871
+CAN1,Canada,LIT,Littered,1992,0.006201
+CAN1,Canada,LAN,Landfilled,1992,2.384583
+CAN1,Canada,MIS,Mismanaged,1992,0.399115
+CAN1,Canada,TOTAL,Total,1992,2.939835
+CHN1,China,REC,Recycled,1992,0.088595
+CHN1,China,INC,Incinerated,1992,0.176728
+CHN1,China,LAN,Landfilled,1992,1.418834
+CHN1,China,MIS,Mismanaged,1992,4.893278
+CHN1,China,LIT,Littered,1992,0.027089
+CHN1,China,TOTAL,Total,1992,6.604524
+IND1,India,REC,Recycled,1992,0.017217
+IND1,India,INC,Incinerated,1992,0.008832
+IND1,India,LAN,Landfilled,1992,0.250677
+IND1,India,MIS,Mismanaged,1992,0.919317
+IND1,India,LIT,Littered,1992,0.007289
+IND1,India,TOTAL,Total,1992,1.203332
+OAM,Other OECD America,LIT,Littered,1993,0.015009
+ODA,Other non-OECD Asia,TOTAL,Total,1993,2.344767
+OPA,OECD Asia,LAN,Landfilled,1993,2.489166
+OCE,OECD Oceania,MIS,Mismanaged,1993,0.027076
+RAN,Other Eurasia,INC,Incinerated,1993,0.017629
+MEN,Middle East & North Africa,TOTAL,Total,1993,4.350835
+EU5,Other EU,REC,Recycled,1993,0.006512
+OE6,OECD Non-EU,INC,Incinerated,1993,0.449715
+OAM,Other OECD America,INC,Incinerated,1993,0.015145
+OPA,OECD Asia,TOTAL,Total,1993,3.601612
+ODA,Other non-OECD Asia,LAN,Landfilled,1993,0.759208
+EU5,Other EU,MIS,Mismanaged,1993,0.15301
+RAN,Other Eurasia,LIT,Littered,1993,0.012376
+OCE,OECD Oceania,REC,Recycled,1993,0.005273
+O22,OECD EU,TOTAL,Total,1993,24.206869
+MEN,Middle East & North Africa,LAN,Landfilled,1993,2.148377
+OE6,OECD Non-EU,LIT,Littered,1993,0.012517
+ODA,Other non-OECD Asia,INC,Incinerated,1993,0.035635
+EU5,Other EU,LAN,Landfilled,1993,0.66839
+OPA,OECD Asia,LIT,Littered,1993,0.00816
+RAN,Other Eurasia,MIS,Mismanaged,1993,1.558381
+LAM,Latin America,INC,Incinerated,1993,0.012837
+O22,OECD EU,LAN,Landfilled,1993,18.718744
+OAF,Other Africa,REC,Recycled,1993,0.052947
+OE6,OECD Non-EU,MIS,Mismanaged,1993,1.014347
+EU5,Other EU,TOTAL,Total,1993,0.839362
+ODA,Other non-OECD Asia,LIT,Littered,1993,0.012944
+OPA,OECD Asia,INC,Incinerated,1993,0.54532
+LAM,Latin America,LIT,Littered,1993,0.012311
+OAF,Other Africa,MIS,Mismanaged,1993,1.87713
+OE6,OECD Non-EU,REC,Recycled,1993,0.056371
+OAM,Other OECD America,REC,Recycled,1993,0.141949
+ODA,Other non-OECD Asia,MIS,Mismanaged,1993,1.458049
+EU5,Other EU,LIT,Littered,1993,0.002572
+O22,OECD EU,INC,Incinerated,1993,1.447938
+OCE,OECD Oceania,TOTAL,Total,1993,0.202024
+LAM,Latin America,MIS,Mismanaged,1993,1.795585
+O22,OECD EU,LIT,Littered,1993,0.050595
+MEN,Middle East & North Africa,INC,Incinerated,1993,0.016844
+OE6,OECD Non-EU,TOTAL,Total,1993,5.911147
+OAF,Other Africa,LAN,Landfilled,1993,0.707674
+OAM,Other OECD America,MIS,Mismanaged,1993,1.113115
+OCE,OECD Oceania,LAN,Landfilled,1993,0.152035
+RAN,Other Eurasia,REC,Recycled,1993,0.062936
+MEN,Middle East & North Africa,LIT,Littered,1993,0.015575
+LAM,Latin America,REC,Recycled,1993,0.110358
+EU5,Other EU,INC,Incinerated,1993,0.008878
+OE6,OECD Non-EU,LAN,Landfilled,1993,4.378197
+OAF,Other Africa,TOTAL,Total,1993,2.652584
+OAM,Other OECD America,LAN,Landfilled,1993,2.831038
+OPA,OECD Asia,REC,Recycled,1993,0.052852
+RAN,Other Eurasia,TOTAL,Total,1993,3.825455
+OCE,OECD Oceania,INC,Incinerated,1993,0.017222
+LAM,Latin America,TOTAL,Total,1993,3.1346
+MEN,Middle East & North Africa,MIS,Mismanaged,1993,2.089264
+OAF,Other Africa,LIT,Littered,1993,0.014833
+ODA,Other non-OECD Asia,REC,Recycled,1993,0.078932
+OAM,Other OECD America,TOTAL,Total,1993,4.116256
+OPA,OECD Asia,MIS,Mismanaged,1993,0.506114
+O22,OECD EU,REC,Recycled,1993,0.420941
+RAN,Other Eurasia,LAN,Landfilled,1993,2.174133
+OCE,OECD Oceania,LIT,Littered,1993,0.00042
+LAM,Latin America,LAN,Landfilled,1993,1.203508
+O22,OECD EU,MIS,Mismanaged,1993,3.568651
+MEN,Middle East & North Africa,REC,Recycled,1993,0.080774
+USA1,United States,REC,Recycled,1993,0.548765
+USA1,United States,INC,Incinerated,1993,4.797171
+USA1,United States,LAN,Landfilled,1993,26.02978
+USA1,United States,LIT,Littered,1993,0.072719
+USA1,United States,TOTAL,Total,1993,34.688354
+USA1,United States,MIS,Mismanaged,1993,3.239918
+CAN1,Canada,REC,Recycled,1993,0.056081
+CAN1,Canada,INC,Incinerated,1993,0.1054
+CAN1,Canada,LAN,Landfilled,1993,2.476036
+CAN1,Canada,MIS,Mismanaged,1993,0.407095
+CAN1,Canada,LIT,Littered,1993,0.006405
+CAN1,Canada,TOTAL,Total,1993,3.051017
+CHN1,China,REC,Recycled,1993,0.132523
+CHN1,China,INC,Incinerated,1993,0.255479
+CHN1,China,LAN,Landfilled,1993,1.639073
+CHN1,China,MIS,Mismanaged,1993,5.399195
+CHN1,China,LIT,Littered,1993,0.030405
+CHN1,China,TOTAL,Total,1993,7.456676
+IND1,India,REC,Recycled,1993,0.026357
+IND1,India,INC,Incinerated,1993,0.011811
+IND1,India,LAN,Landfilled,1993,0.296619
+IND1,India,MIS,Mismanaged,1993,1.046167
+IND1,India,LIT,Littered,1993,0.008354
+IND1,India,TOTAL,Total,1993,1.389307
+OAM,Other OECD America,LIT,Littered,1994,0.016039
+ODA,Other non-OECD Asia,TOTAL,Total,1994,2.705301
+OPA,OECD Asia,LAN,Landfilled,1994,2.589508
+OCE,OECD Oceania,MIS,Mismanaged,1994,0.029894
+MEN,Middle East & North Africa,TOTAL,Total,1994,4.675369
+EU5,Other EU,REC,Recycled,1994,0.00868
+OE6,OECD Non-EU,INC,Incinerated,1994,0.513683
+OAM,Other OECD America,INC,Incinerated,1994,0.016198
+ODA,Other non-OECD Asia,LAN,Landfilled,1994,0.884924
+EU5,Other EU,MIS,Mismanaged,1994,0.159468
+OPA,OECD Asia,TOTAL,Total,1994,3.859254
+RAN,Other Eurasia,LIT,Littered,1994,0.013448
+OCE,OECD Oceania,REC,Recycled,1994,0.00635
+O22,OECD EU,TOTAL,Total,1994,25.506015
+MEN,Middle East & North Africa,LAN,Landfilled,1994,2.317198
+OE6,OECD Non-EU,LIT,Littered,1994,0.013335
+ODA,Other non-OECD Asia,INC,Incinerated,1994,0.04396
+RAN,Other Eurasia,INC,Incinerated,1994,0.019686
+EU5,Other EU,LAN,Landfilled,1994,0.70801
+OPA,OECD Asia,LIT,Littered,1994,0.008756
+RAN,Other Eurasia,MIS,Mismanaged,1994,1.680515
+LAM,Latin America,INC,Incinerated,1994,0.014475
+O22,OECD EU,LAN,Landfilled,1994,19.355244
+OAF,Other Africa,REC,Recycled,1994,0.06363
+OE6,OECD Non-EU,MIS,Mismanaged,1994,1.056108
+EU5,Other EU,TOTAL,Total,1994,0.888812
+ODA,Other non-OECD Asia,LIT,Littered,1994,0.014903
+OPA,OECD Asia,INC,Incinerated,1994,0.664407
+LAM,Latin America,LIT,Littered,1994,0.013828
+OAF,Other Africa,MIS,Mismanaged,1994,2.093312
+OE6,OECD Non-EU,REC,Recycled,1994,0.075239
+OAM,Other OECD America,REC,Recycled,1994,0.162273
+ODA,Other non-OECD Asia,MIS,Mismanaged,1994,1.664067
+EU5,Other EU,LIT,Littered,1994,0.002736
+O22,OECD EU,INC,Incinerated,1994,1.872884
+OCE,OECD Oceania,TOTAL,Total,1994,0.227406
+LAM,Latin America,MIS,Mismanaged,1994,1.987814
+O22,OECD EU,LIT,Littered,1994,0.053443
+MEN,Middle East & North Africa,INC,Incinerated,1994,0.018315
+OE6,OECD Non-EU,TOTAL,Total,1994,6.276318
+OAF,Other Africa,LAN,Landfilled,1994,0.796602
+OAM,Other OECD America,MIS,Mismanaged,1994,1.17264
+OCE,OECD Oceania,LAN,Landfilled,1994,0.171035
+RAN,Other Eurasia,REC,Recycled,1994,0.073352
+MEN,Middle East & North Africa,LIT,Littered,1994,0.016816
+LAM,Latin America,REC,Recycled,1994,0.132598
+EU5,Other EU,INC,Incinerated,1994,0.009918
+OE6,OECD Non-EU,LAN,Landfilled,1994,4.617955
+OAF,Other Africa,TOTAL,Total,1994,2.970212
+OAM,Other OECD America,LAN,Landfilled,1994,3.011381
+OPA,OECD Asia,REC,Recycled,1994,0.071233
+RAN,Other Eurasia,TOTAL,Total,1994,4.129812
+OCE,OECD Oceania,INC,Incinerated,1994,0.019653
+LAM,Latin America,TOTAL,Total,1994,3.507354
+MEN,Middle East & North Africa,MIS,Mismanaged,1994,2.229645
+OAF,Other Africa,LIT,Littered,1994,0.016668
+ODA,Other non-OECD Asia,REC,Recycled,1994,0.097447
+OAM,Other OECD America,TOTAL,Total,1994,4.378531
+OPA,OECD Asia,MIS,Mismanaged,1994,0.52535
+OCE,OECD Oceania,LIT,Littered,1994,0.000473
+O22,OECD EU,REC,Recycled,1994,0.55807
+RAN,Other Eurasia,LAN,Landfilled,1994,2.342811
+LAM,Latin America,LAN,Landfilled,1994,1.35864
+O22,OECD EU,MIS,Mismanaged,1994,3.666374
+MEN,Middle East & North Africa,REC,Recycled,1994,0.093395
+USA1,United States,REC,Recycled,1994,0.617418
+USA1,United States,INC,Incinerated,1994,5.123743
+USA1,United States,LAN,Landfilled,1994,27.360746
+USA1,United States,MIS,Mismanaged,1994,3.327702
+USA1,United States,LIT,Littered,1994,0.076804
+USA1,United States,TOTAL,Total,1994,36.506413
+CAN1,Canada,REC,Recycled,1994,0.064662
+CAN1,Canada,INC,Incinerated,1994,0.111931
+CAN1,Canada,LAN,Landfilled,1994,2.610332
+CAN1,Canada,MIS,Mismanaged,1994,0.421318
+CAN1,Canada,LIT,Littered,1994,0.006774
+CAN1,Canada,TOTAL,Total,1994,3.215015
+CHN1,China,REC,Recycled,1994,0.189072
+CHN1,China,INC,Incinerated,1994,0.358758
+CHN1,China,LAN,Landfilled,1994,1.928159
+CHN1,China,MIS,Mismanaged,1994,6.063642
+CHN1,China,LIT,Littered,1994,0.034956
+CHN1,China,TOTAL,Total,1994,8.574587
+IND1,India,REC,Recycled,1994,0.03836
+IND1,India,INC,Incinerated,1994,0.01574
+IND1,India,LAN,Landfilled,1994,0.355534
+IND1,India,MIS,Mismanaged,1994,1.20599
+IND1,India,LIT,Littered,1994,0.009737
+IND1,India,TOTAL,Total,1994,1.625362
+OAM,Other OECD America,LIT,Littered,1995,0.016711
+ODA,Other non-OECD Asia,TOTAL,Total,1995,3.047312
+OPA,OECD Asia,LAN,Landfilled,1995,2.640867
+OCE,OECD Oceania,MIS,Mismanaged,1995,0.032521
+RAN,Other Eurasia,INC,Incinerated,1995,0.021512
+MEN,Middle East & North Africa,TOTAL,Total,1995,4.936013
+EU5,Other EU,REC,Recycled,1995,0.010909
+OE6,OECD Non-EU,INC,Incinerated,1995,0.573221
+OAM,Other OECD America,INC,Incinerated,1995,0.016891
+ODA,Other non-OECD Asia,LAN,Landfilled,1995,1.007065
+EU5,Other EU,MIS,Mismanaged,1995,0.163866
+OPA,OECD Asia,TOTAL,Total,1995,4.058328
+RAN,Other Eurasia,LIT,Littered,1995,0.014273
+OCE,OECD Oceania,REC,Recycled,1995,0.007479
+O22,OECD EU,TOTAL,Total,1995,26.392129
+MEN,Middle East & North Africa,LAN,Landfilled,1995,2.45548
+OE6,OECD Non-EU,LIT,Littered,1995,0.013852
+ODA,Other non-OECD Asia,INC,Incinerated,1995,0.052673
+EU5,Other EU,LAN,Landfilled,1995,0.739606
+OPA,OECD Asia,LIT,Littered,1995,0.009169
+O22,OECD EU,LAN,Landfilled,1995,19.644414
+RAN,Other Eurasia,MIS,Mismanaged,1995,1.785612
+LAM,Latin America,INC,Incinerated,1995,0.015855
+OAF,Other Africa,REC,Recycled,1995,0.074203
+OE6,OECD Non-EU,MIS,Mismanaged,1995,1.079277
+EU5,Other EU,TOTAL,Total,1995,0.9281
+ODA,Other non-OECD Asia,LIT,Littered,1995,0.01665
+OPA,OECD Asia,INC,Incinerated,1995,0.78338
+LAM,Latin America,LIT,Littered,1995,0.015083
+OE6,OECD Non-EU,REC,Recycled,1995,0.094504
+OAM,Other OECD America,REC,Recycled,1995,0.181017
+OAF,Other Africa,MIS,Mismanaged,1995,2.277068
+ODA,Other non-OECD Asia,MIS,Mismanaged,1995,1.854291
+EU5,Other EU,LIT,Littered,1995,0.002847
+O22,OECD EU,INC,Incinerated,1995,2.299721
+OCE,OECD Oceania,TOTAL,Total,1995,0.252311
+LAM,Latin America,MIS,Mismanaged,1995,2.14925
+O22,OECD EU,LIT,Littered,1995,0.055045
+MEN,Middle East & North Africa,INC,Incinerated,1995,0.019446
+OE6,OECD Non-EU,TOTAL,Total,1995,6.543053
+OAF,Other Africa,LAN,Landfilled,1995,0.874568
+OAM,Other OECD America,MIS,Mismanaged,1995,1.212049
+OCE,OECD Oceania,LAN,Landfilled,1995,0.189692
+RAN,Other Eurasia,REC,Recycled,1995,0.08349
+MEN,Middle East & North Africa,LIT,Littered,1995,0.017719
+LAM,Latin America,REC,Recycled,1995,0.154773
+EU5,Other EU,INC,Incinerated,1995,0.010872
+OE6,OECD Non-EU,LAN,Landfilled,1995,4.7822
+OAF,Other Africa,TOTAL,Total,1995,3.244011
+OAM,Other OECD America,LAN,Landfilled,1995,3.142724
+OPA,OECD Asia,REC,Recycled,1995,0.090326
+RAN,Other Eurasia,TOTAL,Total,1995,4.392177
+OCE,OECD Oceania,INC,Incinerated,1995,0.022097
+LAM,Latin America,TOTAL,Total,1995,3.83288
+MEN,Middle East & North Africa,MIS,Mismanaged,1995,2.337938
+OAF,Other Africa,LIT,Littered,1995,0.018171
+ODA,Other non-OECD Asia,REC,Recycled,1995,0.116632
+OAM,Other OECD America,TOTAL,Total,1995,4.569391
+OPA,OECD Asia,MIS,Mismanaged,1995,0.534587
+O22,OECD EU,REC,Recycled,1995,0.696412
+RAN,Other Eurasia,LAN,Landfilled,1995,2.48729
+OCE,OECD Oceania,LIT,Littered,1995,0.000521
+LAM,Latin America,LAN,Landfilled,1995,1.497919
+O22,OECD EU,MIS,Mismanaged,1995,3.696538
+MEN,Middle East & North Africa,REC,Recycled,1995,0.105429
+USA1,United States,REC,Recycled,1995,0.67873
+USA1,United States,INC,Incinerated,1995,5.376864
+USA1,United States,LAN,Landfilled,1995,28.269302
+USA1,United States,MIS,Mismanaged,1995,3.357937
+USA1,United States,LIT,Littered,1995,0.079207
+USA1,United States,TOTAL,Total,1995,37.762039
+CAN1,Canada,REC,Recycled,1995,0.072621
+CAN1,Canada,INC,Incinerated,1995,0.116735
+CAN1,Canada,LAN,Landfilled,1995,2.704855
+CAN1,Canada,MIS,Mismanaged,1995,0.428466
+CAN1,Canada,LIT,Littered,1995,0.006994
+CAN1,Canada,TOTAL,Total,1995,3.329671
+CHN1,China,REC,Recycled,1995,0.252323
+CHN1,China,INC,Incinerated,1995,0.474702
+CHN1,China,LAN,Landfilled,1995,2.207781
+CHN1,China,MIS,Mismanaged,1995,6.626798
+CHN1,China,LIT,Littered,1995,0.038937
+CHN1,China,TOTAL,Total,1995,9.600541
+IND1,India,REC,Recycled,1995,0.052131
+IND1,India,INC,Incinerated,1995,0.020093
+IND1,India,LAN,Landfilled,1995,0.414431
+IND1,India,MIS,Mismanaged,1995,1.352354
+IND1,India,LIT,Littered,1995,0.011005
+IND1,India,TOTAL,Total,1995,1.850014
+OAM,Other OECD America,LIT,Littered,1996,0.017641
+ODA,Other non-OECD Asia,TOTAL,Total,1996,3.457164
+OPA,OECD Asia,LAN,Landfilled,1996,2.716399
+OCE,OECD Oceania,MIS,Mismanaged,1996,0.035581
+RAN,Other Eurasia,INC,Incinerated,1996,0.023747
+MEN,Middle East & North Africa,TOTAL,Total,1996,5.260465
+EU5,Other EU,REC,Recycled,1996,0.01345
+OE6,OECD Non-EU,INC,Incinerated,1996,0.643244
+OAM,Other OECD America,INC,Incinerated,1996,0.017846
+ODA,Other non-OECD Asia,LAN,Landfilled,1996,1.154253
+EU5,Other EU,MIS,Mismanaged,1996,0.169592
+OPA,OECD Asia,TOTAL,Total,1996,4.309639
+RAN,Other Eurasia,LIT,Littered,1996,0.015332
+OCE,OECD Oceania,REC,Recycled,1996,0.008829
+O22,OECD EU,TOTAL,Total,1996,27.553743
+MEN,Middle East & North Africa,LAN,Landfilled,1996,2.626608
+OE6,OECD Non-EU,LIT,Littered,1996,0.014576
+ODA,Other non-OECD Asia,INC,Incinerated,1996,0.063381
+EU5,Other EU,LAN,Landfilled,1996,0.77847
+OPA,OECD Asia,LIT,Littered,1996,0.009722
+O22,OECD EU,LAN,Landfilled,1996,20.104807
+RAN,Other Eurasia,MIS,Mismanaged,1996,1.913524
+LAM,Latin America,INC,Incinerated,1996,0.017591
+OAF,Other Africa,REC,Recycled,1996,0.087092
+OE6,OECD Non-EU,MIS,Mismanaged,1996,1.112736
+EU5,Other EU,TOTAL,Total,1996,0.976504
+ODA,Other non-OECD Asia,LIT,Littered,1996,0.018778
+OPA,OECD Asia,INC,Incinerated,1996,0.922557
+LAM,Latin America,LIT,Littered,1996,0.016668
+OAF,Other Africa,MIS,Mismanaged,1996,2.503254
+OE6,OECD Non-EU,REC,Recycled,1996,0.116518
+OAM,Other OECD America,REC,Recycled,1996,0.20314
+ODA,Other non-OECD Asia,MIS,Mismanaged,1996,2.08072
+EU5,Other EU,LIT,Littered,1996,0.002996
+O22,OECD EU,INC,Incinerated,1996,2.782492
+OCE,OECD Oceania,TOTAL,Total,1996,0.281673
+LAM,Latin America,MIS,Mismanaged,1996,2.347351
+O22,OECD EU,LIT,Littered,1996,0.057408
+MEN,Middle East & North Africa,INC,Incinerated,1996,0.020901
+OE6,OECD Non-EU,TOTAL,Total,1996,6.885907
+OAF,Other Africa,LAN,Landfilled,1996,0.97044
+OAM,Other OECD America,MIS,Mismanaged,1996,1.264895
+OCE,OECD Oceania,LAN,Landfilled,1996,0.211688
+RAN,Other Eurasia,REC,Recycled,1996,0.095558
+MEN,Middle East & North Africa,LIT,Littered,1996,0.018906
+LAM,Latin America,REC,Recycled,1996,0.181763
+MEN,Middle East & North Africa,MIS,Mismanaged,1996,2.474342
+EU5,Other EU,INC,Incinerated,1996,0.011996
+OE6,OECD Non-EU,LAN,Landfilled,1996,4.998832
+OAF,Other Africa,TOTAL,Total,1996,3.580863
+OAM,Other OECD America,LAN,Landfilled,1996,3.312193
+OPA,OECD Asia,REC,Recycled,1996,0.112451
+RAN,Other Eurasia,TOTAL,Total,1996,4.711614
+OCE,OECD Oceania,INC,Incinerated,1996,0.024997
+LAM,Latin America,TOTAL,Total,1996,4.231845
+OAF,Other Africa,LIT,Littered,1996,0.020077
+ODA,Other non-OECD Asia,REC,Recycled,1996,0.140033
+OAM,Other OECD America,TOTAL,Total,1996,4.815715
+OPA,OECD Asia,MIS,Mismanaged,1996,0.548509
+O22,OECD EU,REC,Recycled,1996,0.852687
+RAN,Other Eurasia,LAN,Landfilled,1996,2.663453
+OCE,OECD Oceania,LIT,Littered,1996,0.000579
+LAM,Latin America,LAN,Landfilled,1996,1.668472
+O22,OECD EU,MIS,Mismanaged,1996,3.756349
+MEN,Middle East & North Africa,REC,Recycled,1996,0.119707
+USA1,United States,REC,Recycled,1996,0.750567
+USA1,United States,INC,Incinerated,1996,5.690182
+USA1,United States,LAN,Landfilled,1996,29.455953
+USA1,United States,MIS,Mismanaged,1996,3.414404
+USA1,United States,LIT,Littered,1996,0.082658
+USA1,United States,TOTAL,Total,1996,39.393764
+CAN1,Canada,REC,Recycled,1996,0.081845
+CAN1,Canada,INC,Incinerated,1996,0.122838
+CAN1,Canada,LAN,Landfilled,1996,2.826872
+CAN1,Canada,MIS,Mismanaged,1996,0.439253
+CAN1,Canada,LIT,Littered,1996,0.007309
+CAN1,Canada,TOTAL,Total,1996,3.478118
+CHN1,China,REC,Recycled,1996,0.331557
+CHN1,China,INC,Incinerated,1996,0.619089
+CHN1,China,MIS,Mismanaged,1996,7.297809
+CHN1,China,LIT,Littered,1996,0.043849
+CHN1,China,LAN,Landfilled,1996,2.548539
+CHN1,China,TOTAL,Total,1996,10.840843
+IND1,India,REC,Recycled,1996,0.069292
+IND1,India,MIS,Mismanaged,1996,1.524529
+IND1,India,INC,Incinerated,1996,0.02552
+IND1,India,LAN,Landfilled,1996,0.485619
+IND1,India,LIT,Littered,1996,0.012532
+IND1,India,TOTAL,Total,1996,2.117491
+OAM,Other OECD America,LIT,Littered,1997,0.01874
+ODA,Other non-OECD Asia,TOTAL,Total,1997,3.9277
+OPA,OECD Asia,LAN,Landfilled,1997,2.804645
+OCE,OECD Oceania,MIS,Mismanaged,1997,0.039004
+RAN,Other Eurasia,INC,Incinerated,1997,0.026335
+MEN,Middle East & North Africa,TOTAL,Total,1997,5.63449
+EU5,Other EU,REC,Recycled,1997,0.016323
+OE6,OECD Non-EU,INC,Incinerated,1997,0.72287
+OAM,Other OECD America,INC,Incinerated,1997,0.018973
+ODA,Other non-OECD Asia,LAN,Landfilled,1997,1.324771
+EU5,Other EU,MIS,Mismanaged,1997,0.176214
+OPA,OECD Asia,TOTAL,Total,1997,4.599765
+RAN,Other Eurasia,LIT,Littered,1997,0.016564
+OCE,OECD Oceania,REC,Recycled,1997,0.010411
+O22,OECD EU,TOTAL,Total,1997,28.900691
+MEN,Middle East & North Africa,LAN,Landfilled,1997,2.823781
+OE6,OECD Non-EU,LIT,Littered,1997,0.015433
+ODA,Other non-OECD Asia,INC,Incinerated,1997,0.076151
+EU5,Other EU,LAN,Landfilled,1997,0.8229
+OPA,OECD Asia,LIT,Littered,1997,0.010371
+RAN,Other Eurasia,MIS,Mismanaged,1997,2.060163
+LAM,Latin America,INC,Incinerated,1997,0.019613
+O22,OECD EU,LAN,Landfilled,1997,20.659701
+OAF,Other Africa,REC,Recycled,1997,0.102279
+OE6,OECD Non-EU,MIS,Mismanaged,1997,1.152322
+EU5,Other EU,TOTAL,Total,1997,1.031879
+ODA,Other non-OECD Asia,LIT,Littered,1997,0.021225
+OPA,OECD Asia,INC,Incinerated,1997,1.082174
+LAM,Latin America,LIT,Littered,1997,0.018509
+OAF,Other Africa,MIS,Mismanaged,1997,2.763407
+OE6,OECD Non-EU,REC,Recycled,1997,0.141384
+OAM,Other OECD America,REC,Recycled,1997,0.228354
+ODA,Other non-OECD Asia,MIS,Mismanaged,1997,2.337756
+EU5,Other EU,LIT,Littered,1997,0.003171
+O22,OECD EU,INC,Incinerated,1997,3.322545
+OCE,OECD Oceania,TOTAL,Total,1997,0.315208
+LAM,Latin America,MIS,Mismanaged,1997,2.574108
+O22,OECD EU,LIT,Littered,1997,0.060221
+MEN,Middle East & North Africa,INC,Incinerated,1997,0.022595
+OE6,OECD Non-EU,TOTAL,Total,1997,7.282924
+OAF,Other Africa,LAN,Landfilled,1997,1.081345
+OAM,Other OECD America,MIS,Mismanaged,1997,1.326731
+OCE,OECD Oceania,LAN,Landfilled,1997,0.236805
+RAN,Other Eurasia,REC,Recycled,1997,0.109519
+MEN,Middle East & North Africa,LIT,Littered,1997,0.020294
+LAM,Latin America,REC,Recycled,1997,0.213583
+EU5,Other EU,INC,Incinerated,1997,0.013271
+OE6,OECD Non-EU,LAN,Landfilled,1997,5.250915
+OAF,Other Africa,TOTAL,Total,1997,3.969323
+OAM,Other OECD America,LAN,Landfilled,1997,3.508969
+OPA,OECD Asia,REC,Recycled,1997,0.137772
+RAN,Other Eurasia,TOTAL,Total,1997,5.078004
+OCE,OECD Oceania,INC,Incinerated,1997,0.028344
+LAM,Latin America,TOTAL,Total,1997,4.691995
+MEN,Middle East & North Africa,MIS,Mismanaged,1997,2.631685
+OAF,Other Africa,LIT,Littered,1997,0.022292
+ODA,Other non-OECD Asia,REC,Recycled,1997,0.167797
+OAM,Other OECD America,TOTAL,Total,1997,5.101766
+OPA,OECD Asia,MIS,Mismanaged,1997,0.564802
+O22,OECD EU,REC,Recycled,1997,1.027205
+RAN,Other Eurasia,LAN,Landfilled,1997,2.865423
+OCE,OECD Oceania,LIT,Littered,1997,0.000645
+LAM,Latin America,LAN,Landfilled,1997,1.866182
+O22,OECD EU,MIS,Mismanaged,1997,3.831019
+MEN,Middle East & North Africa,REC,Recycled,1997,0.136134
+USA1,United States,REC,Recycled,1997,0.831384
+USA1,United States,INC,Incinerated,1997,6.048632
+USA1,United States,LAN,Landfilled,1997,30.833144
+USA1,United States,MIS,Mismanaged,1997,3.485135
+USA1,United States,LIT,Littered,1997,0.086754
+CAN1,Canada,INC,Incinerated,1997,0.129875
+USA1,United States,TOTAL,Total,1997,41.285049
+CAN1,Canada,REC,Recycled,1997,0.092208
+CAN1,Canada,LAN,Landfilled,1997,2.968114
+CAN1,Canada,MIS,Mismanaged,1997,0.452204
+CAN1,Canada,LIT,Littered,1997,0.007683
+CAN1,Canada,TOTAL,Total,1997,3.650084
+CHN1,China,REC,Recycled,1997,0.428015
+CHN1,China,INC,Incinerated,1997,0.795192
+CHN1,China,MIS,Mismanaged,1997,8.047675
+CHN1,China,LIT,Littered,1997,0.049529
+CHN1,China,LAN,Landfilled,1997,2.947279
+CHN1,China,TOTAL,Total,1997,12.26769
+IND1,India,REC,Recycled,1997,0.090289
+IND1,India,INC,Incinerated,1997,0.032127
+IND1,India,LAN,Landfilled,1997,0.568939
+IND1,India,MIS,Mismanaged,1997,1.718477
+IND1,India,LIT,Littered,1997,0.014285
+IND1,India,TOTAL,Total,1997,2.424116
+OAM,Other OECD America,LIT,Littered,1998,0.019597
+ODA,Other non-OECD Asia,TOTAL,Total,1998,4.402742
+OPA,OECD Asia,LAN,Landfilled,1998,2.862642
+OCE,OECD Oceania,MIS,Mismanaged,1998,0.042419
+RAN,Other Eurasia,INC,Incinerated,1998,0.02885
+MEN,Middle East & North Africa,TOTAL,Total,1998,5.97955
+EU5,Other EU,REC,Recycled,1998,0.019326
+OE6,OECD Non-EU,INC,Incinerated,1998,0.801659
+OAM,Other OECD America,INC,Incinerated,1998,0.019859
+ODA,Other non-OECD Asia,LAN,Landfilled,1998,1.500141
+EU5,Other EU,MIS,Mismanaged,1998,0.181766
+OPA,OECD Asia,TOTAL,Total,1998,4.860033
+RAN,Other Eurasia,LIT,Littered,1998,0.017651
+OCE,OECD Oceania,REC,Recycled,1998,0.012138
+O22,OECD EU,TOTAL,Total,1998,30.021041
+OE6,OECD Non-EU,LIT,Littered,1998,0.016089
+ODA,Other non-OECD Asia,INC,Incinerated,1998,0.08997
+EU5,Other EU,LAN,Landfilled,1998,0.863672
+OPA,OECD Asia,LIT,Littered,1998,0.010901
+RAN,Other Eurasia,MIS,Mismanaged,1998,2.200701
+LAM,Latin America,INC,Incinerated,1998,0.021481
+O22,OECD EU,LAN,Landfilled,1998,21.01212
+OAF,Other Africa,REC,Recycled,1998,0.118076
+OE6,OECD Non-EU,MIS,Mismanaged,1998,1.181254
+EU5,Other EU,TOTAL,Total,1998,1.082605
+ODA,Other non-OECD Asia,LIT,Littered,1998,0.023583
+OPA,OECD Asia,INC,Incinerated,1998,1.247018
+LAM,Latin America,LIT,Littered,1998,0.020187
+OAF,Other Africa,MIS,Mismanaged,1998,3.008149
+OE6,OECD Non-EU,REC,Recycled,1998,0.167278
+OAM,Other OECD America,REC,Recycled,1998,0.253209
+ODA,Other non-OECD Asia,MIS,Mismanaged,1998,2.591367
+EU5,Other EU,LIT,Littered,1998,0.003312
+O22,OECD EU,INC,Incinerated,1998,3.873967
+OCE,OECD Oceania,TOTAL,Total,1998,0.350093
+LAM,Latin America,MIS,Mismanaged,1998,2.784984
+O22,OECD EU,LIT,Littered,1998,0.062193
+MEN,Middle East & North Africa,INC,Incinerated,1998,0.02409
+OE6,OECD Non-EU,TOTAL,Total,1998,7.627862
+OAF,Other Africa,LAN,Landfilled,1998,1.18801
+OAM,Other OECD America,MIS,Mismanaged,1998,1.377299
+OCE,OECD Oceania,LAN,Landfilled,1998,0.262936
+RAN,Other Eurasia,REC,Recycled,1998,0.123892
+MEN,Middle East & North Africa,LIT,Littered,1998,0.021473
+OE6,OECD Non-EU,LAN,Landfilled,1998,5.461583
+LAM,Latin America,REC,Recycled,1998,0.246853
+EU5,Other EU,INC,Incinerated,1998,0.014529
+OAF,Other Africa,TOTAL,Total,1998,4.338527
+OAM,Other OECD America,LAN,Landfilled,1998,3.679131
+OPA,OECD Asia,REC,Recycled,1998,0.164539
+RAN,Other Eurasia,TOTAL,Total,1998,5.42934
+OCE,OECD Oceania,INC,Incinerated,1998,0.03189
+LAM,Latin America,TOTAL,Total,1998,5.132854
+MEN,Middle East & North Africa,MIS,Mismanaged,1998,2.77344
+OAF,Other Africa,LIT,Littered,1998,0.024293
+ODA,Other non-OECD Asia,REC,Recycled,1998,0.197682
+OAM,Other OECD America,TOTAL,Total,1998,5.349095
+OPA,OECD Asia,MIS,Mismanaged,1998,0.574934
+O22,OECD EU,REC,Recycled,1998,1.206642
+RAN,Other Eurasia,LAN,Landfilled,1998,3.058245
+OCE,OECD Oceania,LIT,Littered,1998,0.00071
+LAM,Latin America,LAN,Landfilled,1998,2.059349
+O22,OECD EU,MIS,Mismanaged,1998,3.866119
+MEN,Middle East & North Africa,REC,Recycled,1998,0.152809
+USA1,United States,REC,Recycled,1998,0.910238
+USA1,United States,INC,Incinerated,1998,6.370286
+USA1,United States,LAN,Landfilled,1998,31.988432
+USA1,United States,MIS,Mismanaged,1998,3.524028
+USA1,United States,LIT,Littered,1998,0.089762
+CAN1,Canada,INC,Incinerated,1998,0.136002
+USA1,United States,TOTAL,Total,1998,42.882746
+CAN1,Canada,REC,Recycled,1998,0.102504
+CAN1,Canada,LAN,Landfilled,1998,3.088681
+MEN,Middle East & North Africa,LAN,Landfilled,1998,3.007738
+CAN1,Canada,MIS,Mismanaged,1998,0.461275
+CAN1,Canada,LIT,Littered,1998,0.00796
+CAN1,Canada,TOTAL,Total,1998,3.796422
+CHN1,China,REC,Recycled,1998,0.536016
+CHN1,China,INC,Incinerated,1998,0.992299
+CHN1,China,LAN,Landfilled,1998,3.356369
+CHN1,China,MIS,Mismanaged,1998,8.735414
+CHN1,China,LIT,Littered,1998,0.054898
+CHN1,China,TOTAL,Total,1998,13.674997
+IND1,India,REC,Recycled,1998,0.114139
+IND1,India,INC,Incinerated,1998,0.039519
+IND1,India,LAN,Landfilled,1998,0.656538
+IND1,India,MIS,Mismanaged,1998,1.908322
+IND1,India,LIT,Littered,1998,0.016008
+IND1,India,TOTAL,Total,1998,2.734526
+OAM,Other OECD America,LIT,Littered,1999,0.020781
+ODA,Other non-OECD Asia,TOTAL,Total,1999,4.971335
+OPA,OECD Asia,LAN,Landfilled,1999,2.947774
+OCE,OECD Oceania,MIS,Mismanaged,1999,0.046346
+RAN,Other Eurasia,INC,Incinerated,1999,0.03194
+MEN,Middle East & North Africa,TOTAL,Total,1999,6.408801
+EU5,Other EU,REC,Recycled,1999,0.022813
+OE6,OECD Non-EU,INC,Incinerated,1999,0.895567
+OAM,Other OECD America,INC,Incinerated,1999,0.021077
+ODA,Other non-OECD Asia,LAN,Landfilled,1999,1.710972
+EU5,Other EU,MIS,Mismanaged,1999,0.188859
+OPA,OECD Asia,TOTAL,Total,1999,5.188586
+RAN,Other Eurasia,LIT,Littered,1999,0.019053
+OCE,OECD Oceania,REC,Recycled,1999,0.014207
+O22,OECD EU,TOTAL,Total,1999,31.48164
+MEN,Middle East & North Africa,LAN,Landfilled,1999,3.235437
+OE6,OECD Non-EU,LIT,Littered,1999,0.017006
+ODA,Other non-OECD Asia,INC,Incinerated,1999,0.10687
+EU5,Other EU,LAN,Landfilled,1999,0.913427
+OPA,OECD Asia,LIT,Littered,1999,0.011613
+RAN,Other Eurasia,MIS,Mismanaged,1999,2.37053
+LAM,Latin America,INC,Incinerated,1999,0.023851
+O22,OECD EU,LAN,Landfilled,1999,21.558895
+OAF,Other Africa,REC,Recycled,1999,0.137498
+OE6,OECD Non-EU,MIS,Mismanaged,1999,1.222269
+EU5,Other EU,TOTAL,Total,1999,1.144622
+ODA,Other non-OECD Asia,LIT,Littered,1999,0.026491
+OPA,OECD Asia,INC,Incinerated,1999,1.442833
+LAM,Latin America,LIT,Littered,1999,0.022323
+OAF,Other Africa,MIS,Mismanaged,1999,3.311681
+OE6,OECD Non-EU,REC,Recycled,1999,0.197492
+OAM,Other OECD America,REC,Recycled,1999,0.283041
+ODA,Other non-OECD Asia,MIS,Mismanaged,1999,2.892755
+EU5,Other EU,LIT,Littered,1999,0.003504
+O22,OECD EU,INC,Incinerated,1999,4.510165
+OCE,OECD Oceania,TOTAL,Total,1999,0.39083
+LAM,Latin America,MIS,Mismanaged,1999,3.045408
+O22,OECD EU,LIT,Littered,1999,0.065091
+MEN,Middle East & North Africa,INC,Incinerated,1999,0.026019
+OE6,OECD Non-EU,TOTAL,Total,1999,8.069524
+OAM,Other OECD America,MIS,Mismanaged,1999,1.444664
+OCE,OECD Oceania,LAN,Landfilled,1999,0.293425
+OAF,Other Africa,LAN,Landfilled,1999,1.320093
+RAN,Other Eurasia,REC,Recycled,1999,0.141182
+MEN,Middle East & North Africa,LIT,Littered,1999,0.023026
+LAM,Latin America,REC,Recycled,1999,0.28767
+EU5,Other EU,INC,Incinerated,1999,0.01602
+OE6,OECD Non-EU,LAN,Landfilled,1999,5.737191
+OAF,Other Africa,TOTAL,Total,1999,4.796123
+OAM,Other OECD America,LAN,Landfilled,1999,3.898427
+OPA,OECD Asia,REC,Recycled,1999,0.196102
+RAN,Other Eurasia,TOTAL,Total,1999,5.854246
+OCE,OECD Oceania,INC,Incinerated,1999,0.036063
+LAM,Latin America,TOTAL,Total,1999,5.676476
+MEN,Middle East & North Africa,MIS,Mismanaged,1999,2.951457
+OAF,Other Africa,LIT,Littered,1999,0.026852
+ODA,Other non-OECD Asia,REC,Recycled,1999,0.234246
+USA1,United States,REC,Recycled,1999,1.004268
+OAM,Other OECD America,TOTAL,Total,1999,5.66799
+OPA,OECD Asia,MIS,Mismanaged,1999,0.590263
+O22,OECD EU,REC,Recycled,1999,1.413705
+RAN,Other Eurasia,LAN,Landfilled,1999,3.29154
+OCE,OECD Oceania,LIT,Littered,1999,0.000789
+LAM,Latin America,LAN,Landfilled,1999,2.297224
+O22,OECD EU,MIS,Mismanaged,1999,3.933784
+MEN,Middle East & North Africa,REC,Recycled,1999,0.172861
+USA1,United States,INC,Incinerated,1999,6.770326
+USA1,United States,LAN,Landfilled,1999,33.490651
+USA1,United States,MIS,Mismanaged,1999,3.592795
+USA1,United States,LIT,Littered,1999,0.094068
+USA1,United States,TOTAL,Total,1999,44.952108
+CAN1,Canada,REC,Recycled,1999,0.11467
+CAN1,Canada,INC,Incinerated,1999,0.143795
+CAN1,Canada,LAN,Landfilled,1999,3.243872
+CAN1,Canada,MIS,Mismanaged,1999,0.474634
+CAN1,Canada,LIT,Littered,1999,0.008354
+CAN1,Canada,TOTAL,Total,1999,3.985325
+CHN1,China,REC,Recycled,1999,0.669392
+CHN1,China,INC,Incinerated,1999,1.236533
+CHN1,China,LAN,Landfilled,1999,3.856783
+CHN1,China,MIS,Mismanaged,1999,9.561512
+CHN1,China,LIT,Littered,1999,0.061602
+CHN1,China,TOTAL,Total,1999,15.385822
+IND1,India,REC,Recycled,1999,0.143623
+IND1,India,INC,Incinerated,1999,0.048664
+IND1,India,LAN,Landfilled,1999,0.762625
+IND1,India,MIS,Mismanaged,1999,2.133089
+IND1,India,LIT,Littered,1999,0.018108
+IND1,India,TOTAL,Total,1999,3.106109
+OAM,Other OECD America,LIT,Littered,2000,0.021844
+ODA,Other non-OECD Asia,TOTAL,Total,2000,5.559237
+OPA,OECD Asia,LAN,Landfilled,2000,3.011471
+OCE,OECD Oceania,MIS,Mismanaged,2000,0.050274
+RAN,Other Eurasia,INC,Incinerated,2000,0.03509
+MEN,Middle East & North Africa,TOTAL,Total,2000,6.827318
+EU5,Other EU,REC,Recycled,2000,0.026501
+OE6,OECD Non-EU,INC,Incinerated,2000,0.991601
+OAM,Other OECD America,INC,Incinerated,2000,0.022175
+ODA,Other non-OECD Asia,LAN,Landfilled,2000,1.932519
+EU5,Other EU,MIS,Mismanaged,2000,0.195193
+OPA,OECD Asia,TOTAL,Total,2000,5.504465
+RAN,Other Eurasia,LIT,Littered,2000,0.020402
+OCE,OECD Oceania,REC,Recycled,2000,0.016475
+O22,OECD EU,TOTAL,Total,2000,32.806928
+MEN,Middle East & North Africa,LAN,Landfilled,2000,3.459274
+OE6,OECD Non-EU,LIT,Littered,2000,0.017818
+ODA,Other non-OECD Asia,INC,Incinerated,2000,0.125411
+EU5,Other EU,LAN,Landfilled,2000,0.96121
+OPA,OECD Asia,LIT,Littered,2000,0.01227
+RAN,Other Eurasia,MIS,Mismanaged,2000,2.539366
+LAM,Latin America,INC,Incinerated,2000,0.026203
+O22,OECD EU,LAN,Landfilled,2000,21.966891
+OAF,Other Africa,REC,Recycled,2000,0.15826
+OE6,OECD Non-EU,MIS,Mismanaged,2000,1.256187
+EU5,Other EU,TOTAL,Total,2000,1.20412
+ODA,Other non-OECD Asia,LIT,Littered,2000,0.029431
+OPA,OECD Asia,INC,Incinerated,2000,1.649779
+LAM,Latin America,LIT,Littered,2000,0.024422
+OAF,Other Africa,MIS,Mismanaged,2000,3.612815
+OE6,OECD Non-EU,REC,Recycled,2000,0.229312
+EU5,Other EU,LIT,Littered,2000,0.003678
+OAM,Other OECD America,REC,Recycled,2000,0.313506
+ODA,Other non-OECD Asia,MIS,Mismanaged,2000,3.197663
+O22,OECD EU,INC,Incinerated,2000,5.170488
+OCE,OECD Oceania,TOTAL,Total,2000,0.433393
+LAM,Latin America,MIS,Mismanaged,2000,3.300993
+O22,OECD EU,LIT,Littered,2000,0.067518
+MEN,Middle East & North Africa,INC,Incinerated,2000,0.027877
+OE6,OECD Non-EU,TOTAL,Total,2000,8.483707
+OAF,Other Africa,LAN,Landfilled,2000,1.453495
+OAM,Other OECD America,MIS,Mismanaged,2000,1.505486
+OCE,OECD Oceania,LAN,Landfilled,2000,0.32527
+RAN,Other Eurasia,REC,Recycled,2000,0.159436
+MEN,Middle East & North Africa,LIT,Littered,2000,0.024488
+LAM,Latin America,REC,Recycled,2000,0.331489
+EU5,Other EU,INC,Incinerated,2000,0.017538
+OE6,OECD Non-EU,LAN,Landfilled,2000,5.988789
+OAF,Other Africa,TOTAL,Total,2000,5.253922
+OAM,Other OECD America,LAN,Landfilled,2000,4.104219
+OPA,OECD Asia,REC,Recycled,2000,0.229828
+RAN,Other Eurasia,TOTAL,Total,2000,6.277171
+OCE,OECD Oceania,INC,Incinerated,2000,0.040503
+LAM,Latin America,TOTAL,Total,2000,6.223362
+MEN,Middle East & North Africa,MIS,Mismanaged,2000,3.121883
+OAF,Other Africa,LIT,Littered,2000,0.029352
+ODA,Other non-OECD Asia,REC,Recycled,2000,0.274212
+OAM,Other OECD America,TOTAL,Total,2000,5.967231
+OPA,OECD Asia,MIS,Mismanaged,2000,0.601118
+O22,OECD EU,REC,Recycled,2000,1.62886
+RAN,Other Eurasia,LAN,Landfilled,2000,3.522878
+OCE,OECD Oceania,LIT,Littered,2000,0.000871
+LAM,Latin America,LAN,Landfilled,2000,2.540255
+O22,OECD EU,MIS,Mismanaged,2000,3.973171
+MEN,Middle East & North Africa,REC,Recycled,2000,0.193797
+USA1,United States,REC,Recycled,2000,1.098544
+USA1,United States,INC,Incinerated,2000,7.151613
+USA1,United States,LAN,Landfilled,2000,34.858035
+USA1,United States,MIS,Mismanaged,2000,3.638777
+USA1,United States,LIT,Littered,2000,0.09777
+USA1,United States,TOTAL,Total,2000,46.844739
+CAN1,Canada,REC,Recycled,2000,0.127029
+CAN1,Canada,INC,Incinerated,2000,0.151097
+CAN1,Canada,LAN,Landfilled,2000,3.386902
+CAN1,Canada,MIS,Mismanaged,2000,0.485324
+CAN1,Canada,LIT,Littered,2000,0.008696
+CAN1,Canada,TOTAL,Total,2000,4.159048
+CHN1,China,REC,Recycled,2000,0.819305
+CHN1,China,INC,Incinerated,2000,1.511666
+CHN1,China,LAN,Landfilled,2000,4.385828
+CHN1,China,MIS,Mismanaged,2000,10.350894
+CHN1,China,LIT,Littered,2000,0.06832
+CHN1,China,TOTAL,Total,2000,17.136013
+IND1,India,REC,Recycled,2000,0.177113
+IND1,India,INC,Incinerated,2000,0.058963
+IND1,India,LAN,Landfilled,2000,0.87639
+IND1,India,MIS,Mismanaged,2000,2.359011
+IND1,India,LIT,Littered,2000,0.020257
+IND1,India,TOTAL,Total,2000,3.491734
+OAM,Other OECD America,LIT,Littered,2001,0.022556
+OPA,OECD Asia,LAN,Landfilled,2001,3.033074
+OCE,OECD Oceania,MIS,Mismanaged,2001,0.053953
+ODA,Other non-OECD Asia,TOTAL,Total,2001,6.124187
+RAN,Other Eurasia,INC,Incinerated,2001,0.038005
+MEN,Middle East & North Africa,TOTAL,Total,2001,7.187149
+EU5,Other EU,REC,Recycled,2001,0.030182
+OE6,OECD Non-EU,INC,Incinerated,2001,1.081808
+OAM,Other OECD America,INC,Incinerated,2001,0.022921
+ODA,Other non-OECD Asia,LAN,Landfilled,2001,2.150235
+EU5,Other EU,MIS,Mismanaged,2001,0.199752
+OPA,OECD Asia,TOTAL,Total,2001,5.767089
+RAN,Other Eurasia,LIT,Littered,2001,0.021497
+OCE,OECD Oceania,REC,Recycled,2001,0.018856
+O22,OECD EU,TOTAL,Total,2001,33.776239
+MEN,Middle East & North Africa,LAN,Landfilled,2001,3.654809
+OE6,OECD Non-EU,LIT,Littered,2001,0.018342
+ODA,Other non-OECD Asia,INC,Incinerated,2001,0.144614
+EU5,Other EU,LAN,Landfilled,2001,1.001734
+OPA,OECD Asia,LIT,Littered,2001,0.012745
+RAN,Other Eurasia,MIS,Mismanaged,2001,2.691648
+LAM,Latin America,INC,Incinerated,2001,0.02823
+O22,OECD EU,LAN,Landfilled,2001,22.097539
+OAF,Other Africa,REC,Recycled,2001,0.178806
+OE6,OECD Non-EU,MIS,Mismanaged,2001,1.274711
+EU5,Other EU,TOTAL,Total,2001,1.254435
+ODA,Other non-OECD Asia,LIT,Littered,2001,0.032098
+OPA,OECD Asia,INC,Incinerated,2001,1.854014
+LAM,Latin America,LIT,Littered,2001,0.026192
+OAF,Other Africa,MIS,Mismanaged,2001,3.87782
+OE6,OECD Non-EU,REC,Recycled,2001,0.260817
+OAM,Other OECD America,REC,Recycled,2001,0.341955
+ODA,Other non-OECD Asia,MIS,Mismanaged,2001,3.481906
+EU5,Other EU,LIT,Littered,2001,0.003802
+O22,OECD EU,INC,Incinerated,2001,5.811097
+OCE,OECD Oceania,TOTAL,Total,2001,0.475684
+LAM,Latin America,MIS,Mismanaged,2001,3.522364
+O22,OECD EU,LIT,Littered,2001,0.0688
+MEN,Middle East & North Africa,INC,Incinerated,2001,0.029391
+OE6,OECD Non-EU,TOTAL,Total,2001,8.810486
+OAF,Other Africa,LAN,Landfilled,2001,1.574416
+OAM,Other OECD America,MIS,Mismanaged,2001,1.548854
+OCE,OECD Oceania,LAN,Landfilled,2001,0.356914
+RAN,Other Eurasia,REC,Recycled,2001,0.177405
+MEN,Middle East & North Africa,LIT,Littered,2001,0.025612
+LAM,Latin America,REC,Recycled,2001,0.375196
+EU5,Other EU,INC,Incinerated,2001,0.018965
+OE6,OECD Non-EU,LAN,Landfilled,2001,6.174807
+OAF,Other Africa,TOTAL,Total,2001,5.662476
+OAM,Other OECD America,LAN,Landfilled,2001,4.265721
+OPA,OECD Asia,REC,Recycled,2001,0.263792
+RAN,Other Eurasia,TOTAL,Total,2001,6.659039
+OCE,OECD Oceania,INC,Incinerated,2001,0.045015
+LAM,Latin America,TOTAL,Total,2001,6.717312
+MEN,Middle East & North Africa,MIS,Mismanaged,2001,3.263276
+OAF,Other Africa,LIT,Littered,2001,0.031434
+OPA,OECD Asia,MIS,Mismanaged,2001,0.603463
+ODA,Other non-OECD Asia,REC,Recycled,2001,0.315333
+OAM,Other OECD America,TOTAL,Total,2001,6.202006
+O22,OECD EU,REC,Recycled,2001,1.838617
+RAN,Other Eurasia,LAN,Landfilled,2001,3.730482
+OCE,OECD Oceania,LIT,Littered,2001,0.000947
+LAM,Latin America,LAN,Landfilled,2001,2.76533
+O22,OECD EU,MIS,Mismanaged,2001,3.960186
+MEN,Middle East & North Africa,REC,Recycled,2001,0.214061
+USA1,United States,REC,Recycled,2001,1.184984
+USA1,United States,INC,Incinerated,2001,7.466014
+USA1,United States,LAN,Landfilled,2001,35.868928
+USA1,United States,MIS,Mismanaged,2001,3.641029
+USA1,United States,LIT,Littered,2001,0.099953
+USA1,United States,TOTAL,Total,2001,48.260908
+CAN1,Canada,REC,Recycled,2001,0.138619
+CAN1,Canada,INC,Incinerated,2001,0.156862
+CAN1,Canada,LAN,Landfilled,2001,3.49591
+CAN1,Canada,MIS,Mismanaged,2001,0.490428
+CAN1,Canada,LIT,Littered,2001,0.008903
+CAN1,Canada,TOTAL,Total,2001,4.290722
+CHN1,China,REC,Recycled,2001,0.978061
+CHN1,China,INC,Incinerated,2001,1.803924
+CHN1,China,LAN,Landfilled,2001,4.904224
+CHN1,China,MIS,Mismanaged,2001,11.011444
+IND1,India,REC,Recycled,2001,0.213219
+CHN1,China,LIT,Littered,2001,0.074258
+CHN1,China,TOTAL,Total,2001,18.77191
+IND1,India,INC,Incinerated,2001,0.069954
+IND1,India,LAN,Landfilled,2001,0.99107
+IND1,India,MIS,Mismanaged,2001,2.567475
+IND1,India,LIT,Littered,2001,0.022256
+IND1,India,TOTAL,Total,2001,3.863973
+OAM,Other OECD America,LIT,Littered,2002,0.023735
+ODA,Other non-OECD Asia,TOTAL,Total,2002,6.818249
+OPA,OECD Asia,LAN,Landfilled,2002,3.088715
+OCE,OECD Oceania,MIS,Mismanaged,2002,0.058243
+RAN,Other Eurasia,INC,Incinerated,2002,0.04173
+MEN,Middle East & North Africa,TOTAL,Total,2002,7.659865
+EU5,Other EU,REC,Recycled,2002,0.034538
+OE6,OECD Non-EU,INC,Incinerated,2002,1.192903
+OAM,Other OECD America,INC,Incinerated,2002,0.02414
+ODA,Other non-OECD Asia,LAN,Landfilled,2002,2.417594
+EU5,Other EU,MIS,Mismanaged,2002,0.206234
+OPA,OECD Asia,TOTAL,Total,2002,6.121311
+RAN,Other Eurasia,LIT,Littered,2002,0.02304
+OCE,OECD Oceania,REC,Recycled,2002,0.021716
+O22,OECD EU,TOTAL,Total,2002,35.187828
+MEN,Middle East & North Africa,LAN,Landfilled,2002,3.909257
+OE6,OECD Non-EU,LIT,Littered,2002,0.019237
+ODA,Other non-OECD Asia,INC,Incinerated,2002,0.16833
+EU5,Other EU,LAN,Landfilled,2002,1.053779
+OPA,OECD Asia,LIT,Littered,2002,0.013482
+RAN,Other Eurasia,MIS,Mismanaged,2002,2.882637
+LAM,Latin America,INC,Incinerated,2002,0.030996
+O22,OECD EU,LAN,Landfilled,2002,22.474946
+OAF,Other Africa,REC,Recycled,2002,0.204712
+OE6,OECD Non-EU,MIS,Mismanaged,2002,1.308761
+EU5,Other EU,TOTAL,Total,2002,1.31925
+ODA,Other non-OECD Asia,LIT,Littered,2002,0.035562
+OPA,OECD Asia,INC,Incinerated,2002,2.102326
+LAM,Latin America,LIT,Littered,2002,0.028637
+OAF,Other Africa,MIS,Mismanaged,2002,4.225762
+OE6,OECD Non-EU,REC,Recycled,2002,0.298345
+OAM,Other OECD America,REC,Recycled,2002,0.377361
+ODA,Other non-OECD Asia,MIS,Mismanaged,2002,3.830459
+EU5,Other EU,LIT,Littered,2002,0.003995
+O22,OECD EU,INC,Incinerated,2002,6.567894
+OCE,OECD Oceania,TOTAL,Total,2002,0.525522
+LAM,Latin America,MIS,Mismanaged,2002,3.812602
+O22,OECD EU,LIT,Littered,2002,0.071379
+MEN,Middle East & North Africa,INC,Incinerated,2002,0.031522
+OE6,OECD Non-EU,TOTAL,Total,2002,9.265545
+OAF,Other Africa,LAN,Landfilled,2002,1.731634
+OAM,Other OECD America,MIS,Mismanaged,2002,1.61457
+OCE,OECD Oceania,LAN,Landfilled,2002,0.394161
+RAN,Other Eurasia,REC,Recycled,2002,0.199487
+MEN,Middle East & North Africa,LIT,Littered,2002,0.027269
+LAM,Latin America,REC,Recycled,2002,0.430071
+EU5,Other EU,INC,Incinerated,2002,0.020705
+OE6,OECD Non-EU,LAN,Landfilled,2002,6.446299
+OAF,Other Africa,TOTAL,Total,2002,6.196448
+OAM,Other OECD America,LAN,Landfilled,2002,4.493477
+OPA,OECD Asia,REC,Recycled,2002,0.304547
+OCE,OECD Oceania,INC,Incinerated,2002,0.050359
+LAM,Latin America,TOTAL,Total,2002,7.356582
+RAN,Other Eurasia,TOTAL,Total,2002,7.138507
+MEN,Middle East & North Africa,MIS,Mismanaged,2002,3.452754
+OAF,Other Africa,LIT,Littered,2002,0.03434
+ODA,Other non-OECD Asia,REC,Recycled,2002,0.366303
+OAM,Other OECD America,TOTAL,Total,2002,6.533283
+OPA,OECD Asia,MIS,Mismanaged,2002,0.612241
+O22,OECD EU,REC,Recycled,2002,2.085776
+RAN,Other Eurasia,LAN,Landfilled,2002,3.991612
+OCE,OECD Oceania,LIT,Littered,2002,0.001043
+LAM,Latin America,LAN,Landfilled,2002,3.054276
+O22,OECD EU,MIS,Mismanaged,2002,3.987832
+MEN,Middle East & North Africa,REC,Recycled,2002,0.239064
+USA1,United States,REC,Recycled,2002,1.291648
+USA1,United States,INC,Incinerated,2002,7.883364
+USA1,United States,LAN,Landfilled,2002,37.328596
+USA1,United States,MIS,Mismanaged,2002,3.680473
+USA1,United States,LIT,Littered,2002,0.103937
+USA1,United States,TOTAL,Total,2002,50.28802
+CAN1,Canada,REC,Recycled,2002,0.152728
+CAN1,Canada,INC,Incinerated,2002,0.164828
+CAN1,Canada,LAN,Landfilled,2002,3.649937
+CAN1,Canada,MIS,Mismanaged,2002,0.500955
+CAN1,Canada,LIT,Littered,2002,0.009273
+CAN1,Canada,TOTAL,Total,2002,4.477721
+CHN1,China,REC,Recycled,2002,1.175594
+CHN1,China,INC,Incinerated,2002,2.168121
+CHN1,China,LAN,Landfilled,2002,5.555359
+CHN1,China,MIS,Mismanaged,2002,11.856329
+IND1,India,REC,Recycled,2002,0.25786
+CHN1,China,LIT,Littered,2002,0.082158
+CHN1,China,TOTAL,Total,2002,20.837561
+IND1,India,INC,Incinerated,2002,0.083581
+IND1,India,LAN,Landfilled,2002,1.132303
+IND1,India,MIS,Mismanaged,2002,2.822789
+IND1,India,LIT,Littered,2002,0.024798
+IND1,India,TOTAL,Total,2002,4.321331
+OAM,Other OECD America,LIT,Littered,2003,0.024734
+ODA,Other non-OECD Asia,TOTAL,Total,2003,7.522466
+OPA,OECD Asia,LAN,Landfilled,2003,3.11647
+OCE,OECD Oceania,MIS,Mismanaged,2003,0.062439
+RAN,Other Eurasia,INC,Incinerated,2003,0.045448
+MEN,Middle East & North Africa,TOTAL,Total,2003,8.108797
+EU5,Other EU,REC,Recycled,2003,0.039024
+OE6,OECD Non-EU,INC,Incinerated,2003,1.303685
+OAM,Other OECD America,INC,Incinerated,2003,0.02518
+ODA,Other non-OECD Asia,LAN,Landfilled,2003,2.693601
+EU5,Other EU,MIS,Mismanaged,2003,0.211699
+OPA,OECD Asia,TOTAL,Total,2003,6.45112
+RAN,Other Eurasia,LIT,Littered,2003,0.024471
+OCE,OECD Oceania,REC,Recycled,2003,0.024791
+O22,OECD EU,TOTAL,Total,2003,36.404328
+MEN,Middle East & North Africa,LAN,Landfilled,2003,4.153307
+OE6,OECD Non-EU,LIT,Littered,2003,0.019983
+OPA,OECD Asia,LIT,Littered,2003,0.014131
+ODA,Other non-OECD Asia,INC,Incinerated,2003,0.193788
+EU5,Other EU,LAN,Landfilled,2003,1.102521
+RAN,Other Eurasia,MIS,Mismanaged,2003,3.068791
+LAM,Latin America,INC,Incinerated,2003,0.033658
+O22,OECD EU,LAN,Landfilled,2003,22.68213
+OAF,Other Africa,REC,Recycled,2003,0.231719
+OE6,OECD Non-EU,MIS,Mismanaged,2003,1.333602
+EU5,Other EU,TOTAL,Total,2003,1.379845
+ODA,Other non-OECD Asia,LIT,Littered,2003,0.038974
+OPA,OECD Asia,INC,Incinerated,2003,2.358219
+LAM,Latin America,LIT,Littered,2003,0.030961
+OAF,Other Africa,MIS,Mismanaged,2003,4.561808
+OE6,OECD Non-EU,REC,Recycled,2003,0.336905
+OAM,Other OECD America,REC,Recycled,2003,0.412568
+ODA,Other non-OECD Asia,MIS,Mismanaged,2003,4.175391
+EU5,Other EU,LIT,Littered,2003,0.004162
+O22,OECD EU,INC,Incinerated,2003,7.331044
+OCE,OECD Oceania,TOTAL,Total,2003,0.576878
+LAM,Latin America,MIS,Mismanaged,2003,4.088926
+O22,OECD EU,LIT,Littered,2003,0.073332
+MEN,Middle East & North Africa,INC,Incinerated,2003,0.03351
+OE6,OECD Non-EU,TOTAL,Total,2003,9.67694
+OAF,Other Africa,LAN,Landfilled,2003,1.886626
+OAM,Other OECD America,MIS,Mismanaged,2003,1.670867
+OCE,OECD Oceania,LAN,Landfilled,2003,0.432541
+RAN,Other Eurasia,REC,Recycled,2003,0.222252
+MEN,Middle East & North Africa,LIT,Littered,2003,0.028768
+LAM,Latin America,REC,Recycled,2003,0.487546
+EU5,Other EU,INC,Incinerated,2003,0.02244
+OE6,OECD Non-EU,LAN,Landfilled,2003,6.682765
+OAF,Other Africa,TOTAL,Total,2003,6.717239
+OAM,Other OECD America,LAN,Landfilled,2003,4.699416
+OPA,OECD Asia,REC,Recycled,2003,0.347038
+OCE,OECD Oceania,INC,Incinerated,2003,0.055969
+LAM,Latin America,TOTAL,Total,2003,7.983826
+RAN,Other Eurasia,TOTAL,Total,2003,7.606354
+MEN,Middle East & North Africa,MIS,Mismanaged,2003,3.628668
+OAF,Other Africa,LIT,Littered,2003,0.037086
+ODA,Other non-OECD Asia,REC,Recycled,2003,0.420711
+OAM,Other OECD America,TOTAL,Total,2003,6.832764
+OPA,OECD Asia,MIS,Mismanaged,2003,0.615263
+O22,OECD EU,REC,Recycled,2003,2.335742
+RAN,Other Eurasia,LAN,Landfilled,2003,4.245391
+OCE,OECD Oceania,LIT,Littered,2003,0.001138
+LAM,Latin America,LAN,Landfilled,2003,3.342734
+O22,OECD EU,MIS,Mismanaged,2003,3.982081
+MEN,Middle East & North Africa,REC,Recycled,2003,0.264545
+USA1,United States,REC,Recycled,2003,1.396021
+USA1,United States,INC,Incinerated,2003,8.267798
+USA1,United States,LAN,Landfilled,2003,38.59423
+CAN1,Canada,TOTAL,Total,2003,4.642306
+USA1,United States,MIS,Mismanaged,2003,3.692642
+USA1,United States,LIT,Littered,2003,0.107097
+USA1,United States,TOTAL,Total,2003,52.057788
+CAN1,Canada,REC,Recycled,2003,0.166722
+CAN1,Canada,INC,Incinerated,2003,0.172013
+CAN1,Canada,LAN,Landfilled,2003,3.785881
+CAN1,Canada,MIS,Mismanaged,2003,0.50812
+CAN1,Canada,LIT,Littered,2003,0.00957
+CHN1,China,REC,Recycled,2003,1.390838
+CHN1,China,INC,Incinerated,2003,2.566184
+CHN1,China,LAN,Landfilled,2003,6.229594
+CHN1,China,MIS,Mismanaged,2003,12.626884
+CHN1,China,LIT,Littered,2003,0.089846
+CHN1,China,TOTAL,Total,2003,22.903346
+IND1,India,REC,Recycled,2003,0.306986
+IND1,India,INC,Incinerated,2003,0.098505
+IND1,India,LAN,Landfilled,2003,1.280726
+IND1,India,MIS,Mismanaged,2003,3.072402
+IND1,India,LIT,Littered,2003,0.027331
+IND1,India,TOTAL,Total,2003,4.78595
+OAM,Other OECD America,LIT,Littered,2004,0.025961
+ODA,Other non-OECD Asia,TOTAL,Total,2004,8.322068
+OPA,OECD Asia,LAN,Landfilled,2004,3.150764
+OCE,OECD Oceania,MIS,Mismanaged,2004,0.066976
+RAN,Other Eurasia,INC,Incinerated,2004,0.049723
+MEN,Middle East & North Africa,TOTAL,Total,2004,8.620644
+EU5,Other EU,REC,Recycled,2004,0.044023
+OE6,OECD Non-EU,INC,Incinerated,2004,1.428431
+OAM,Other OECD America,INC,Incinerated,2004,0.026454
+ODA,Other non-OECD Asia,LAN,Landfilled,2004,3.00909
+EU5,Other EU,MIS,Mismanaged,2004,0.217889
+OPA,OECD Asia,TOTAL,Total,2004,6.82845
+OCE,OECD Oceania,REC,Recycled,2004,0.028302
+O22,OECD EU,TOTAL,Total,2004,37.80244
+RAN,Other Eurasia,LIT,Littered,2004,0.026153
+MEN,Middle East & North Africa,LAN,Landfilled,2004,4.431411
+OE6,OECD Non-EU,LIT,Littered,2004,0.020905
+ODA,Other non-OECD Asia,INC,Incinerated,2004,0.223416
+EU5,Other EU,LAN,Landfilled,2004,1.157203
+OPA,OECD Asia,LIT,Littered,2004,0.014913
+RAN,Other Eurasia,MIS,Mismanaged,2004,3.27865
+LAM,Latin America,INC,Incinerated,2004,0.036808
+O22,OECD EU,LAN,Landfilled,2004,22.955212
+OAF,Other Africa,REC,Recycled,2004,0.263191
+OE6,OECD Non-EU,MIS,Mismanaged,2004,1.363537
+EU5,Other EU,TOTAL,Total,2004,1.447859
+ODA,Other non-OECD Asia,LIT,Littered,2004,0.042935
+OPA,OECD Asia,INC,Incinerated,2004,2.648324
+LAM,Latin America,LIT,Littered,2004,0.033717
+OAF,Other Africa,MIS,Mismanaged,2004,4.950097
+OE6,OECD Non-EU,REC,Recycled,2004,0.380211
+OAM,Other OECD America,REC,Recycled,2004,0.452366
+ODA,Other non-OECD Asia,MIS,Mismanaged,2004,4.562681
+EU5,Other EU,LIT,Littered,2004,0.004361
+O22,OECD EU,INC,Incinerated,2004,8.174842
+OCE,OECD Oceania,TOTAL,Total,2004,0.634053
+LAM,Latin America,MIS,Mismanaged,2004,4.405661
+O22,OECD EU,LIT,Littered,2004,0.075829
+MEN,Middle East & North Africa,INC,Incinerated,2004,0.03585
+OE6,OECD Non-EU,TOTAL,Total,2004,10.149718
+OAF,Other Africa,LAN,Landfilled,2004,2.066287
+OAM,Other OECD America,MIS,Mismanaged,2004,1.736834
+MEN,Middle East & North Africa,LIT,Littered,2004,0.030554
+OCE,OECD Oceania,LAN,Landfilled,2004,0.475248
+RAN,Other Eurasia,REC,Recycled,2004,0.248173
+LAM,Latin America,REC,Recycled,2004,0.554419
+EU5,Other EU,INC,Incinerated,2004,0.024383
+OE6,OECD Non-EU,LAN,Landfilled,2004,6.956634
+OAF,Other Africa,TOTAL,Total,2004,7.319935
+OAM,Other OECD America,LAN,Landfilled,2004,4.937767
+OPA,OECD Asia,REC,Recycled,2004,0.395239
+RAN,Other Eurasia,TOTAL,Total,2004,8.134389
+OCE,OECD Oceania,INC,Incinerated,2004,0.062279
+LAM,Latin America,TOTAL,Total,2004,8.706709
+MEN,Middle East & North Africa,MIS,Mismanaged,2004,3.829336
+OAF,Other Africa,LIT,Littered,2004,0.04036
+ODA,Other non-OECD Asia,REC,Recycled,2004,0.483947
+OAM,Other OECD America,TOTAL,Total,2004,7.179382
+OPA,OECD Asia,MIS,Mismanaged,2004,0.619209
+O22,OECD EU,REC,Recycled,2004,2.612599
+RAN,Other Eurasia,LAN,Landfilled,2004,4.53169
+OCE,OECD Oceania,LIT,Littered,2004,0.001247
+LAM,Latin America,LAN,Landfilled,2004,3.676104
+O22,OECD EU,MIS,Mismanaged,2004,3.983958
+MEN,Middle East & North Africa,REC,Recycled,2004,0.293493
+USA1,United States,REC,Recycled,2004,1.512825
+USA1,United States,INC,Incinerated,2004,8.701623
+USA1,United States,LAN,Landfilled,2004,40.045662
+USA1,United States,MIS,Mismanaged,2004,3.713553
+USA1,United States,LIT,Littered,2004,0.111022
+USA1,United States,TOTAL,Total,2004,54.084685
+CAN1,Canada,REC,Recycled,2004,0.182366
+CAN1,Canada,INC,Incinerated,2004,0.18022
+CAN1,Canada,LAN,Landfilled,2004,3.94134
+CAN1,Canada,MIS,Mismanaged,2004,0.516935
+CAN1,Canada,LIT,Littered,2004,0.009938
+CAN1,Canada,TOTAL,Total,2004,4.830799
+CHN1,China,REC,Recycled,2004,1.644125
+CHN1,China,INC,Incinerated,2004,3.035372
+CHN1,China,LAN,Landfilled,2004,7.011468
+CHN1,China,MIS,Mismanaged,2004,13.48346
+CHN1,China,LIT,Littered,2004,0.09887
+CHN1,China,TOTAL,Total,2004,25.273294
+IND1,India,REC,Recycled,2004,0.364581
+IND1,India,INC,Incinerated,2004,0.116008
+IND1,India,LAN,Landfilled,2004,1.451476
+IND1,India,MIS,Mismanaged,2004,3.350256
+IND1,India,LIT,Littered,2004,0.030243
+IND1,India,TOTAL,Total,2004,5.312565
+OAM,Other OECD America,LIT,Littered,2005,0.026805
+ODA,Other non-OECD Asia,TOTAL,Total,2005,9.072405
+OPA,OECD Asia,LAN,Landfilled,2005,3.136741
+OCE,OECD Oceania,MIS,Mismanaged,2005,0.071014
+RAN,Other Eurasia,INC,Incinerated,2005,0.053658
+MEN,Middle East & North Africa,TOTAL,Total,2005,9.051582
+EU5,Other EU,REC,Recycled,2005,0.048831
+OE6,OECD Non-EU,INC,Incinerated,2005,1.542921
+OAM,Other OECD America,INC,Incinerated,2005,0.02734
+ODA,Other non-OECD Asia,LAN,Landfilled,2005,3.312735
+EU5,Other EU,MIS,Mismanaged,2005,0.222005
+OPA,OECD Asia,TOTAL,Total,2005,7.134914
+OCE,OECD Oceania,REC,Recycled,2005,0.031852
+O22,OECD EU,TOTAL,Total,2005,38.768764
+RAN,Other Eurasia,LIT,Littered,2005,0.027516
+MEN,Middle East & North Africa,LAN,Landfilled,2005,4.669905
+OE6,OECD Non-EU,LIT,Littered,2005,0.021512
+ODA,Other non-OECD Asia,INC,Incinerated,2005,0.253366
+EU5,Other EU,LAN,Landfilled,2005,1.202942
+OPA,OECD Asia,LIT,Littered,2005,0.015489
+RAN,Other Eurasia,MIS,Mismanaged,2005,3.465766
+LAM,Latin America,INC,Incinerated,2005,0.039534
+O22,OECD EU,LAN,Landfilled,2005,22.926138
+OAF,Other Africa,REC,Recycled,2005,0.293509
+OE6,OECD Non-EU,MIS,Mismanaged,2005,1.375757
+EU5,Other EU,TOTAL,Total,2005,1.504465
+ODA,Other non-OECD Asia,LIT,Littered,2005,0.046458
+OPA,OECD Asia,INC,Incinerated,2005,2.927418
+LAM,Latin America,LIT,Littered,2005,0.036053
+OAF,Other Africa,MIS,Mismanaged,2005,5.284911
+OE6,OECD Non-EU,REC,Recycled,2005,0.421297
+OAM,Other OECD America,REC,Recycled,2005,0.48842
+ODA,Other non-OECD Asia,MIS,Mismanaged,2005,4.912998
+EU5,Other EU,LIT,Littered,2005,0.004501
+O22,OECD EU,INC,Incinerated,2005,8.96587
+OCE,OECD Oceania,TOTAL,Total,2005,0.68931
+LAM,Latin America,MIS,Mismanaged,2005,4.673355
+O22,OECD EU,LIT,Littered,2005,0.077115
+MEN,Middle East & North Africa,INC,Incinerated,2005,0.037764
+OE6,OECD Non-EU,TOTAL,Total,2005,10.512578
+OAF,Other Africa,LAN,Landfilled,2005,2.226484
+OAM,Other OECD America,MIS,Mismanaged,2005,1.781785
+OCE,OECD Oceania,LAN,Landfilled,2005,0.516564
+RAN,Other Eurasia,REC,Recycled,2005,0.272986
+MEN,Middle East & North Africa,LIT,Littered,2005,0.031936
+LAM,Latin America,REC,Recycled,2005,0.619442
+EU5,Other EU,INC,Incinerated,2005,0.026186
+OE6,OECD Non-EU,LAN,Landfilled,2005,7.151091
+OAF,Other Africa,TOTAL,Total,2005,7.848006
+OAM,Other OECD America,LAN,Landfilled,2005,5.120821
+OPA,OECD Asia,REC,Recycled,2005,0.441905
+RAN,Other Eurasia,TOTAL,Total,2005,8.605881
+OCE,OECD Oceania,INC,Incinerated,2005,0.068534
+LAM,Latin America,TOTAL,Total,2005,9.348773
+MEN,Middle East & North Africa,MIS,Mismanaged,2005,3.991293
+OAF,Other Africa,LIT,Littered,2005,0.043102
+ODA,Other non-OECD Asia,REC,Recycled,2005,0.546848
+OAM,Other OECD America,TOTAL,Total,2005,7.445171
+OPA,OECD Asia,MIS,Mismanaged,2005,0.61336
+O22,OECD EU,REC,Recycled,2005,2.869682
+RAN,Other Eurasia,LAN,Landfilled,2005,4.785955
+OCE,OECD Oceania,LIT,Littered,2005,0.001345
+O22,OECD EU,MIS,Mismanaged,2005,3.929959
+MEN,Middle East & North Africa,REC,Recycled,2005,0.320683
+LAM,Latin America,LAN,Landfilled,2005,3.980388
+USA1,United States,REC,Recycled,2005,1.614403
+USA1,United States,INC,Incinerated,2005,9.047242
+USA1,United States,LIT,Littered,2005,0.11328
+USA1,United States,LAN,Landfilled,2005,41.059394
+USA1,United States,MIS,Mismanaged,2005,3.685981
+USA1,United States,TOTAL,Total,2005,55.5203
+CAN1,Canada,REC,Recycled,2005,0.196315
+CAN1,Canada,INC,Incinerated,2005,0.18649
+CAN1,Canada,LAN,Landfilled,2005,4.054461
+CAN1,Canada,MIS,Mismanaged,2005,0.519342
+CAN1,Canada,LIT,Littered,2005,0.010157
+CAN1,Canada,TOTAL,Total,2005,4.966765
+CHN1,China,REC,Recycled,2005,1.902358
+CHN1,China,INC,Incinerated,2005,3.518244
+CHN1,China,LAN,Landfilled,2005,7.763701
+CHN1,China,MIS,Mismanaged,2005,14.150368
+CHN1,China,LIT,Littered,2005,0.106778
+CHN1,China,TOTAL,Total,2005,27.441449
+IND1,India,REC,Recycled,2005,0.424071
+IND1,India,INC,Incinerated,2005,0.134074
+IND1,India,LAN,Landfilled,2005,1.619195
+IND1,India,MIS,Mismanaged,2005,3.595685
+IND1,India,LIT,Littered,2005,0.032885
+IND1,India,TOTAL,Total,2005,5.80591
+OAM,Other OECD America,LIT,Littered,2006,0.028089
+ODA,Other non-OECD Asia,TOTAL,Total,2006,9.970658
+OPA,OECD Asia,LAN,Landfilled,2006,3.143761
+MEN,Middle East & North Africa,TOTAL,Total,2006,9.593216
+OCE,OECD Oceania,MIS,Mismanaged,2006,0.075621
+RAN,Other Eurasia,INC,Incinerated,2006,0.058508
+EU5,Other EU,REC,Recycled,2006,0.054403
+OE6,OECD Non-EU,INC,Incinerated,2006,1.680025
+OAM,Other OECD America,INC,Incinerated,2006,0.028677
+ODA,Other non-OECD Asia,LAN,Landfilled,2006,3.676252
+EU5,Other EU,MIS,Mismanaged,2006,0.227716
+OPA,OECD Asia,TOTAL,Total,2006,7.526875
+RAN,Other Eurasia,LIT,Littered,2006,0.029332
+OCE,OECD Oceania,REC,Recycled,2006,0.036013
+O22,OECD EU,TOTAL,Total,2006,40.099169
+MEN,Middle East & North Africa,LAN,Landfilled,2006,4.967413
+OE6,OECD Non-EU,LIT,Littered,2006,0.022461
+ODA,Other non-OECD Asia,INC,Incinerated,2006,0.289396
+EU5,Other EU,LAN,Landfilled,2006,1.259679
+OPA,OECD Asia,LIT,Littered,2006,0.016317
+RAN,Other Eurasia,MIS,Mismanaged,2006,3.693312
+LAM,Latin America,INC,Incinerated,2006,0.043099
+O22,OECD EU,LAN,Landfilled,2006,23.069778
+OAF,Other Africa,REC,Recycled,2006,0.330648
+OE6,OECD Non-EU,MIS,Mismanaged,2006,1.399711
+EU5,Other EU,TOTAL,Total,2006,1.57483
+ODA,Other non-OECD Asia,LIT,Littered,2006,0.050884
+OPA,OECD Asia,INC,Incinerated,2006,3.258924
+LAM,Latin America,LIT,Littered,2006,0.039142
+OAF,Other Africa,MIS,Mismanaged,2006,5.708091
+OE6,OECD Non-EU,REC,Recycled,2006,0.469218
+OAM,Other OECD America,REC,Recycled,2006,0.531931
+ODA,Other non-OECD Asia,MIS,Mismanaged,2006,5.331479
+EU5,Other EU,LIT,Littered,2006,0.004704
+O22,OECD EU,INC,Incinerated,2006,9.882863
+OCE,OECD Oceania,TOTAL,Total,2006,0.753195
+LAM,Latin America,MIS,Mismanaged,2006,5.011371
+O22,OECD EU,LIT,Littered,2006,0.079516
+MEN,Middle East & North Africa,INC,Incinerated,2006,0.040308
+OE6,OECD Non-EU,TOTAL,Total,2006,10.990626
+OAF,Other Africa,LAN,Landfilled,2006,2.427328
+OAM,Other OECD America,MIS,Mismanaged,2006,1.846043
+OCE,OECD Oceania,LAN,Landfilled,2006,0.564297
+RAN,Other Eurasia,REC,Recycled,2006,0.302626
+MEN,Middle East & North Africa,LIT,Littered,2006,0.033846
+LAM,Latin America,REC,Recycled,2006,0.698778
+EU5,Other EU,INC,Incinerated,2006,0.028328
+OE6,OECD Non-EU,LAN,Landfilled,2006,7.41921
+OAF,Other Africa,TOTAL,Total,2006,8.512831
+OAM,Other OECD America,LAN,Landfilled,2006,5.364889
+OPA,OECD Asia,REC,Recycled,2006,0.496708
+RAN,Other Eurasia,TOTAL,Total,2006,9.179765
+OCE,OECD Oceania,INC,Incinerated,2006,0.075801
+LAM,Latin America,TOTAL,Total,2006,10.150248
+MEN,Middle East & North Africa,MIS,Mismanaged,2006,4.198402
+OAF,Other Africa,LIT,Littered,2006,0.046764
+ODA,Other non-OECD Asia,REC,Recycled,2006,0.622647
+OAM,Other OECD America,TOTAL,Total,2006,7.79963
+OPA,OECD Asia,MIS,Mismanaged,2006,0.611166
+O22,OECD EU,REC,Recycled,2006,3.165603
+RAN,Other Eurasia,LAN,Landfilled,2006,5.095988
+OCE,OECD Oceania,LIT,Littered,2006,0.001463
+O22,OECD EU,MIS,Mismanaged,2006,3.901409
+MEN,Middle East & North Africa,REC,Recycled,2006,0.353247
+LAM,Latin America,LAN,Landfilled,2006,4.357858
+USA1,United States,REC,Recycled,2006,1.735224
+USA1,United States,INC,Incinerated,2006,9.484988
+USA1,United States,LAN,Landfilled,2006,42.448065
+USA1,United States,MIS,Mismanaged,2006,3.683387
+USA1,United States,LIT,Littered,2006,0.117093
+USA1,United States,TOTAL,Total,2006,57.468756
+CAN1,Canada,REC,Recycled,2006,0.212765
+CAN1,Canada,INC,Incinerated,2006,0.194709
+CAN1,Canada,LAN,Landfilled,2006,4.206085
+CAN1,Canada,MIS,Mismanaged,2006,0.525742
+CAN1,Canada,LIT,Littered,2006,0.010518
+CAN1,Canada,TOTAL,Total,2006,5.149819
+CHN1,China,REC,Recycled,2006,2.21566
+CHN1,China,INC,Incinerated,2006,4.105111
+CHN1,China,LAN,Landfilled,2006,8.681941
+CHN1,China,MIS,Mismanaged,2006,14.978694
+CHN1,China,LIT,Littered,2006,0.116941
+CHN1,China,TOTAL,Total,2006,30.098347
+IND1,India,REC,Recycled,2006,0.49559
+IND1,India,INC,Incinerated,2006,0.155846
+IND1,India,LAN,Landfilled,2006,1.82026
+IND1,India,MIS,Mismanaged,2006,3.888038
+IND1,India,LIT,Littered,2006,0.036145
+IND1,India,TOTAL,Total,2006,6.395879
+OAM,Other OECD America,LIT,Littered,2007,0.02942
+ODA,Other non-OECD Asia,TOTAL,Total,2007,10.938322
+OPA,OECD Asia,LAN,Landfilled,2007,3.138926
+OCE,OECD Oceania,MIS,Mismanaged,2007,0.080384
+RAN,Other Eurasia,INC,Incinerated,2007,0.063743
+MEN,Middle East & North Africa,TOTAL,Total,2007,10.164215
+EU5,Other EU,REC,Recycled,2007,0.060362
+OE6,OECD Non-EU,INC,Incinerated,2007,1.825899
+OAM,Other OECD America,INC,Incinerated,2007,0.030063
+ODA,Other non-OECD Asia,LAN,Landfilled,2007,4.072216
+EU5,Other EU,MIS,Mismanaged,2007,0.233435
+OPA,OECD Asia,TOTAL,Total,2007,7.9356
+RAN,Other Eurasia,LIT,Littered,2007,0.031249
+OCE,OECD Oceania,REC,Recycled,2007,0.040621
+O22,OECD EU,TOTAL,Total,2007,41.440139
+MEN,Middle East & North Africa,LAN,Landfilled,2007,5.282295
+OE6,OECD Non-EU,LIT,Littered,2007,0.023439
+ODA,Other non-OECD Asia,INC,Incinerated,2007,0.329532
+EU5,Other EU,LAN,Landfilled,2007,1.318949
+OPA,OECD Asia,LIT,Littered,2007,0.01718
+RAN,Other Eurasia,MIS,Mismanaged,2007,3.93505
+LAM,Latin America,INC,Incinerated,2007,0.046922
+O22,OECD EU,LAN,Landfilled,2007,23.171148
+OAF,Other Africa,REC,Recycled,2007,0.371522
+OE6,OECD Non-EU,MIS,Mismanaged,2007,1.422149
+EU5,Other EU,TOTAL,Total,2007,1.648271
+ODA,Other non-OECD Asia,LIT,Littered,2007,0.055625
+OPA,OECD Asia,INC,Incinerated,2007,3.617327
+LAM,Latin America,LIT,Littered,2007,0.042439
+OAF,Other Africa,MIS,Mismanaged,2007,6.157719
+OE6,OECD Non-EU,REC,Recycled,2007,0.520385
+OAM,Other OECD America,REC,Recycled,2007,0.578238
+ODA,Other non-OECD Asia,MIS,Mismanaged,2007,5.774192
+EU5,Other EU,LIT,Littered,2007,0.004914
+O22,OECD EU,INC,Incinerated,2007,10.849545
+OCE,OECD Oceania,TOTAL,Total,2007,0.822158
+LAM,Latin America,MIS,Mismanaged,2007,5.366695
+O22,OECD EU,LIT,Littered,2007,0.081909
+MEN,Middle East & North Africa,INC,Incinerated,2007,0.043
+OE6,OECD Non-EU,TOTAL,Total,2007,11.484906
+OAF,Other Africa,LAN,Landfilled,2007,2.643101
+OAM,Other OECD America,MIS,Mismanaged,2007,1.911679
+OCE,OECD Oceania,LAN,Landfilled,2007,0.61582
+RAN,Other Eurasia,REC,Recycled,2007,0.334808
+MEN,Middle East & North Africa,LIT,Littered,2007,0.035852
+LAM,Latin America,REC,Recycled,2007,0.786248
+EU5,Other EU,INC,Incinerated,2007,0.030611
+OE6,OECD Non-EU,LAN,Landfilled,2007,7.693034
+OAF,Other Africa,TOTAL,Total,2007,9.223009
+OAM,Other OECD America,LAN,Landfilled,2007,5.618664
+OPA,OECD Asia,REC,Recycled,2007,0.55591
+RAN,Other Eurasia,TOTAL,Total,2007,9.78989
+OCE,OECD Oceania,INC,Incinerated,2007,0.083744
+OAF,Other Africa,LIT,Littered,2007,0.050668
+LAM,Latin America,TOTAL,Total,2007,11.007745
+MEN,Middle East & North Africa,MIS,Mismanaged,2007,4.41469
+ODA,Other non-OECD Asia,REC,Recycled,2007,0.706757
+OAM,Other OECD America,TOTAL,Total,2007,8.168064
+OPA,OECD Asia,MIS,Mismanaged,2007,0.606257
+O22,OECD EU,REC,Recycled,2007,3.475983
+RAN,Other Eurasia,LAN,Landfilled,2007,5.42504
+OCE,OECD Oceania,LIT,Littered,2007,0.001589
+LAM,Latin America,LAN,Landfilled,2007,4.765441
+O22,OECD EU,MIS,Mismanaged,2007,3.861554
+MEN,Middle East & North Africa,REC,Recycled,2007,0.388379
+USA1,United States,REC,Recycled,2007,1.861229
+USA1,United States,INC,Incinerated,2007,9.937044
+USA1,United States,LAN,Landfilled,2007,43.859363
+USA1,United States,MIS,Mismanaged,2007,3.673731
+USA1,United States,LIT,Littered,2007,0.120936
+USA1,United States,TOTAL,Total,2007,59.452303
+CAN1,Canada,REC,Recycled,2007,0.23002
+CAN1,Canada,INC,Incinerated,2007,0.203178
+CAN1,Canada,LAN,Landfilled,2007,4.361217
+CAN1,Canada,MIS,Mismanaged,2007,0.531595
+CAN1,Canada,LIT,Littered,2007,0.010884
+CAN1,Canada,TOTAL,Total,2007,5.336895
+CHN1,China,REC,Recycled,2007,2.56735
+CHN1,China,INC,Incinerated,2007,4.766192
+IND1,India,LIT,Littered,2007,0.039645
+CHN1,China,LAN,Landfilled,2007,9.689794
+CHN1,China,MIS,Mismanaged,2007,15.803812
+CHN1,China,LIT,Littered,2007,0.12783
+CHN1,China,TOTAL,Total,2007,32.954977
+IND1,India,REC,Recycled,2007,0.576077
+IND1,India,INC,Incinerated,2007,0.180348
+IND1,India,LAN,Landfilled,2007,2.041613
+IND1,India,MIS,Mismanaged,2007,4.193827
+IND1,India,TOTAL,Total,2007,7.031509
+OAM,Other OECD America,LIT,Littered,2008,0.029095
+ODA,Other non-OECD Asia,TOTAL,Total,2008,11.541578
+OPA,OECD Asia,LAN,Landfilled,2008,3.002892
+OCE,OECD Oceania,MIS,Mismanaged,2008,0.083206
+RAN,Other Eurasia,INC,Incinerated,2008,0.066585
+MEN,Middle East & North Africa,TOTAL,Total,2008,10.371866
+EU5,Other EU,REC,Recycled,2008,0.064418
+OE6,OECD Non-EU,INC,Incinerated,2008,1.906495
+OAM,Other OECD America,INC,Incinerated,2008,0.029768
+ODA,Other non-OECD Asia,LAN,Landfilled,2008,4.339835
+EU5,Other EU,MIS,Mismanaged,2008,0.232433
+OPA,OECD Asia,TOTAL,Total,2008,8.04288
+RAN,Other Eurasia,LIT,Littered,2008,0.031612
+OCE,OECD Oceania,REC,Recycled,2008,0.044397
+O22,OECD EU,TOTAL,Total,2008,41.281443
+MEN,Middle East & North Africa,LAN,Landfilled,2008,5.410183
+OE6,OECD Non-EU,LIT,Littered,2008,0.023109
+ODA,Other non-OECD Asia,INC,Incinerated,2008,0.360013
+EU5,Other EU,LAN,Landfilled,2008,1.341545
+OPA,OECD Asia,LIT,Littered,2008,0.01712
+RAN,Other Eurasia,MIS,Mismanaged,2008,4.060371
+LAM,Latin America,INC,Incinerated,2008,0.048116
+O22,OECD EU,LAN,Landfilled,2008,22.414008
+OE6,OECD Non-EU,MIS,Mismanaged,2008,1.390156
+EU5,Other EU,TOTAL,Total,2008,1.675276
+OAF,Other Africa,REC,Recycled,2008,0.396715
+ODA,Other non-OECD Asia,LIT,Littered,2008,0.057631
+OPA,OECD Asia,INC,Incinerated,2008,3.850682
+LAM,Latin America,LIT,Littered,2008,0.043279
+OAF,Other Africa,MIS,Mismanaged,2008,6.325124
+OE6,OECD Non-EU,REC,Recycled,2008,0.553376
+OAM,Other OECD America,REC,Recycled,2008,0.602041
+ODA,Other non-OECD Asia,MIS,Mismanaged,2008,6.016917
+EU5,Other EU,LIT,Littered,2008,0.004883
+O22,OECD EU,INC,Incinerated,2008,11.444401
+OCE,OECD Oceania,TOTAL,Total,2008,0.874476
+LAM,Latin America,MIS,Mismanaged,2008,5.48438
+O22,OECD EU,LIT,Littered,2008,0.079752
+MEN,Middle East & North Africa,INC,Incinerated,2008,0.043586
+OE6,OECD Non-EU,TOTAL,Total,2008,11.55098
+OAF,Other Africa,LAN,Landfilled,2008,2.739462
+OAM,Other OECD America,MIS,Mismanaged,2008,1.900987
+OCE,OECD Oceania,LAN,Landfilled,2008,0.655099
+RAN,Other Eurasia,REC,Recycled,2008,0.355723
+MEN,Middle East & North Africa,LIT,Littered,2008,0.035983
+LAM,Latin America,REC,Recycled,2008,0.842459
+EU5,Other EU,INC,Incinerated,2008,0.031996
+OE6,OECD Non-EU,LAN,Landfilled,2008,7.677844
+OAF,Other Africa,TOTAL,Total,2008,9.512829
+OAM,Other OECD America,LAN,Landfilled,2008,5.64919
+OPA,OECD Asia,REC,Recycled,2008,0.596139
+RAN,Other Eurasia,TOTAL,Total,2008,10.105997
+OCE,OECD Oceania,INC,Incinerated,2008,0.090116
+OAF,Other Africa,LIT,Littered,2008,0.051528
+LAM,Latin America,TOTAL,Total,2008,11.390283
+MEN,Middle East & North Africa,MIS,Mismanaged,2008,4.472405
+ODA,Other non-OECD Asia,REC,Recycled,2008,0.767181
+OAM,Other OECD America,TOTAL,Total,2008,8.21108
+OPA,OECD Asia,MIS,Mismanaged,2008,0.576047
+O22,OECD EU,REC,Recycled,2008,3.665327
+RAN,Other Eurasia,LAN,Landfilled,2008,5.591705
+OCE,OECD Oceania,LIT,Littered,2008,0.001658
+LAM,Latin America,LAN,Landfilled,2008,4.972049
+O22,OECD EU,MIS,Mismanaged,2008,3.677954
+MEN,Middle East & North Africa,REC,Recycled,2008,0.409708
+USA1,United States,REC,Recycled,2008,1.919682
+USA1,United States,INC,Incinerated,2008,10.044827
+USA1,United States,LAN,Landfilled,2008,43.756935
+USA1,United States,MIS,Mismanaged,2008,3.534963
+USA1,United States,LIT,Littered,2008,0.118507
+USA1,United States,TOTAL,Total,2008,59.374914
+CAN1,Canada,REC,Recycled,2008,0.238978
+CAN1,Canada,INC,Incinerated,2008,0.204259
+CAN1,Canada,LAN,Landfilled,2008,4.365033
+CAN1,Canada,MIS,Mismanaged,2008,0.518693
+CAN1,Canada,LIT,Littered,2008,0.010683
+CAN1,Canada,TOTAL,Total,2008,5.337646
+CHN1,China,REC,Recycled,2008,2.828085
+CHN1,China,INC,Incinerated,2008,5.268875
+CHN1,China,LAN,Landfilled,2008,10.329424
+CHN1,China,MIS,Mismanaged,2008,15.907054
+CHN1,China,LIT,Littered,2008,0.131682
+CHN1,China,TOTAL,Total,2008,34.46512
+IND1,India,REC,Recycled,2008,0.639663
+IND1,India,INC,Incinerated,2008,0.199765
+IND1,India,LAN,Landfilled,2008,2.199045
+IND1,India,MIS,Mismanaged,2008,4.344496
+IND1,India,LIT,Littered,2008,0.041358
+IND1,India,TOTAL,Total,2008,7.424327
+OAM,Other OECD America,LIT,Littered,2009,0.029671
+ODA,Other non-OECD Asia,TOTAL,Total,2009,12.414548
+OPA,OECD Asia,LAN,Landfilled,2009,2.921184
+OCE,OECD Oceania,MIS,Mismanaged,2009,0.087144
+RAN,Other Eurasia,INC,Incinerated,2009,0.071122
+MEN,Middle East & North Africa,TOTAL,Total,2009,10.799096
+EU5,Other EU,REC,Recycled,2009,0.06985
+OE6,OECD Non-EU,INC,Incinerated,2009,2.029509
+OAM,Other OECD America,INC,Incinerated,2009,0.030392
+ODA,Other non-OECD Asia,LAN,Landfilled,2009,4.713863
+EU5,Other EU,MIS,Mismanaged,2009,0.234867
+OPA,OECD Asia,TOTAL,Total,2009,8.323398
+RAN,Other Eurasia,LIT,Littered,2009,0.03288
+OCE,OECD Oceania,REC,Recycled,2009,0.049224
+OE6,OECD Non-EU,LIT,Littered,2009,0.023483
+O22,OECD EU,TOTAL,Total,2009,41.901661
+MEN,Middle East & North Africa,LAN,Landfilled,2009,5.65378
+ODA,Other non-OECD Asia,INC,Incinerated,2009,0.400827
+EU5,Other EU,LAN,Landfilled,2009,1.38581
+OPA,OECD Asia,LIT,Littered,2009,0.017571
+RAN,Other Eurasia,MIS,Mismanaged,2009,4.262272
+LAM,Latin America,INC,Incinerated,2009,0.050926
+O22,OECD EU,LAN,Landfilled,2009,22.06419
+OAF,Other Africa,REC,Recycled,2009,0.434174
+OE6,OECD Non-EU,MIS,Mismanaged,2009,1.384839
+EU5,Other EU,TOTAL,Total,2009,1.729513
+ODA,Other non-OECD Asia,LIT,Littered,2009,0.061364
+OPA,OECD Asia,INC,Incinerated,2009,4.178079
+LAM,Latin America,LIT,Littered,2009,0.045584
+OAF,Other Africa,MIS,Mismanaged,2009,6.664882
+OE6,OECD Non-EU,REC,Recycled,2009,0.598773
+OAM,Other OECD America,REC,Recycled,2009,0.640115
+ODA,Other non-OECD Asia,MIS,Mismanaged,2009,6.38842
+EU5,Other EU,LIT,Littered,2009,0.004984
+O22,OECD EU,INC,Incinerated,2009,12.271519
+OCE,OECD Oceania,TOTAL,Total,2009,0.941994
+LAM,Latin America,MIS,Mismanaged,2009,5.741409
+O22,OECD EU,LIT,Littered,2009,0.079945
+MEN,Middle East & North Africa,INC,Incinerated,2009,0.045416
+OE6,OECD Non-EU,TOTAL,Total,2009,11.854575
+OAF,Other Africa,LAN,Landfilled,2009,2.913276
+OAM,Other OECD America,MIS,Mismanaged,2009,1.931246
+OCE,OECD Oceania,LAN,Landfilled,2009,0.705644
+RAN,Other Eurasia,REC,Recycled,2009,0.385391
+MEN,Middle East & North Africa,LIT,Littered,2009,0.037178
+LAM,Latin America,REC,Recycled,2009,0.924212
+EU5,Other EU,INC,Incinerated,2009,0.034003
+OE6,OECD Non-EU,LAN,Landfilled,2009,7.81797
+OAM,Other OECD America,LAN,Landfilled,2009,5.804981
+OPA,OECD Asia,REC,Recycled,2009,0.650744
+RAN,Other Eurasia,TOTAL,Total,2009,10.61586
+OCE,OECD Oceania,INC,Incinerated,2009,0.098217
+LAM,Latin America,TOTAL,Total,2009,12.07805
+MEN,Middle East & North Africa,MIS,Mismanaged,2009,4.621749
+OAF,Other Africa,LIT,Littered,2009,0.054181
+ODA,Other non-OECD Asia,REC,Recycled,2009,0.850076
+OAM,Other OECD America,TOTAL,Total,2009,8.436405
+OPA,OECD Asia,MIS,Mismanaged,2009,0.555821
+O22,OECD EU,REC,Recycled,2009,3.927074
+RAN,Other Eurasia,LAN,Landfilled,2009,5.864195
+OCE,OECD Oceania,LIT,Littered,2009,0.001765
+OAF,Other Africa,TOTAL,Total,2009,10.066513
+LAM,Latin America,LAN,Landfilled,2009,5.31592
+O22,OECD EU,MIS,Mismanaged,2009,3.558933
+MEN,Middle East & North Africa,REC,Recycled,2009,0.440973
+USA1,United States,REC,Recycled,2009,2.016496
+USA1,United States,INC,Incinerated,2009,10.342247
+USA1,United States,LAN,Landfilled,2009,44.455845
+USA1,United States,MIS,Mismanaged,2009,3.457134
+USA1,United States,LIT,Littered,2009,0.119358
+USA1,United States,TOTAL,Total,2009,60.391081
+CAN1,Canada,REC,Recycled,2009,0.252816
+CAN1,Canada,INC,Incinerated,2009,0.209382
+CAN1,Canada,MIS,Mismanaged,2009,0.515015
+CAN1,Canada,LIT,Littered,2009,0.010779
+CAN1,Canada,LAN,Landfilled,2009,4.450204
+CAN1,Canada,TOTAL,Total,2009,5.438196
+CHN1,China,REC,Recycled,2009,3.182728
+CHN1,China,MIS,Mismanaged,2009,16.354476
+CHN1,China,INC,Incinerated,2009,5.947425
+CHN1,China,LAN,Landfilled,2009,11.267118
+CHN1,China,LIT,Littered,2009,0.139866
+CHN1,China,TOTAL,Total,2009,36.891613
+IND1,India,REC,Recycled,2009,0.723496
+IND1,India,INC,Incinerated,2009,0.225408
+IND1,India,LAN,Landfilled,2009,2.415101
+IND1,India,MIS,Mismanaged,2009,4.587107
+IND1,India,LIT,Littered,2009,0.044243
+IND1,India,TOTAL,Total,2009,7.995355
+OAM,Other OECD America,LIT,Littered,2010,0.0313
+ODA,Other non-OECD Asia,TOTAL,Total,2010,13.669616
+OPA,OECD Asia,LAN,Landfilled,2010,2.890513
+OCE,OECD Oceania,MIS,Mismanaged,2010,0.092364
+RAN,Other Eurasia,INC,Incinerated,2010,0.077627
+MEN,Middle East & North Africa,TOTAL,Total,2010,11.505343
+EU5,Other EU,REC,Recycled,2010,0.077183
+OE6,OECD Non-EU,INC,Incinerated,2010,2.206657
+OAM,Other OECD America,INC,Incinerated,2010,0.032088
+ODA,Other non-OECD Asia,LAN,Landfilled,2010,5.239573
+EU5,Other EU,MIS,Mismanaged,2010,0.241252
+OPA,OECD Asia,TOTAL,Total,2010,8.804425
+RAN,Other Eurasia,LIT,Littered,2010,0.035162
+OCE,OECD Oceania,REC,Recycled,2010,0.055415
+OE6,OECD Non-EU,LIT,Littered,2010,0.024678
+O22,OECD EU,TOTAL,Total,2010,43.432802
+MEN,Middle East & North Africa,LAN,Landfilled,2010,6.045373
+ODA,Other non-OECD Asia,INC,Incinerated,2010,0.456726
+EU5,Other EU,LAN,Landfilled,2010,1.456326
+OPA,OECD Asia,LIT,Littered,2010,0.018608
+RAN,Other Eurasia,MIS,Mismanaged,2010,4.549455
+LAM,Latin America,INC,Incinerated,2010,0.055383
+O22,OECD EU,LAN,Landfilled,2010,22.146846
+OAF,Other Africa,REC,Recycled,2010,0.486237
+OE6,OECD Non-EU,MIS,Mismanaged,2010,1.408236
+EU5,Other EU,TOTAL,Total,2010,1.816816
+ODA,Other non-OECD Asia,LIT,Littered,2010,0.067587
+OPA,OECD Asia,INC,Incinerated,2010,4.625774
+LAM,Latin America,LIT,Littered,2010,0.049369
+OAF,Other Africa,MIS,Mismanaged,2010,7.19039
+OE6,OECD Non-EU,REC,Recycled,2010,0.661411
+OAM,Other OECD America,REC,Recycled,2010,0.696671
+ODA,Other non-OECD Asia,MIS,Mismanaged,2010,6.938955
+EU5,Other EU,LIT,Littered,2010,0.005245
+O22,OECD EU,INC,Incinerated,2010,13.407657
+OCE,OECD Oceania,TOTAL,Total,2010,1.02791
+LAM,Latin America,MIS,Mismanaged,2010,6.13544
+O22,OECD EU,LIT,Littered,2010,0.082857
+MEN,Middle East & North Africa,INC,Incinerated,2010,0.04884
+OE6,OECD Non-EU,TOTAL,Total,2010,12.436968
+OAF,Other Africa,LAN,Landfilled,2010,3.172608
+OAM,Other OECD America,MIS,Mismanaged,2010,2.008299
+OCE,OECD Oceania,LAN,Landfilled,2010,0.76977
+RAN,Other Eurasia,REC,Recycled,2010,0.425815
+MEN,Middle East & North Africa,LIT,Littered,2010,0.039719
+LAM,Latin America,REC,Recycled,2010,1.034727
+EU5,Other EU,INC,Incinerated,2010,0.03681
+OE6,OECD Non-EU,LAN,Landfilled,2010,8.135986
+OAF,Other Africa,TOTAL,Total,2010,10.908001
+OAM,Other OECD America,LAN,Landfilled,2010,6.108298
+OPA,OECD Asia,REC,Recycled,2010,0.724876
+RAN,Other Eurasia,TOTAL,Total,2010,11.342219
+OCE,OECD Oceania,INC,Incinerated,2010,0.108441
+LAM,Latin America,TOTAL,Total,2010,13.078401
+MEN,Middle East & North Africa,MIS,Mismanaged,2010,4.885492
+OAF,Other Africa,LIT,Littered,2010,0.058766
+ODA,Other non-OECD Asia,REC,Recycled,2010,0.966776
+OAM,Other OECD America,TOTAL,Total,2010,8.876656
+OPA,OECD Asia,MIS,Mismanaged,2010,0.544655
+O22,OECD EU,REC,Recycled,2010,4.290514
+RAN,Other Eurasia,LAN,Landfilled,2010,6.254161
+OCE,OECD Oceania,LIT,Littered,2010,0.001921
+LAM,Latin America,LAN,Landfilled,2010,5.803482
+O22,OECD EU,MIS,Mismanaged,2010,3.504928
+USA1,United States,INC,Incinerated,2010,10.865699
+MEN,Middle East & North Africa,REC,Recycled,2010,0.485918
+USA1,United States,REC,Recycled,2010,2.164681
+USA1,United States,LAN,Landfilled,2010,46.075965
+USA1,United States,MIS,Mismanaged,2010,3.442054
+USA1,United States,LIT,Littered,2010,0.123973
+USA1,United States,TOTAL,Total,2010,62.672372
+CAN1,Canada,REC,Recycled,2010,0.2733
+CAN1,Canada,INC,Incinerated,2010,0.219283
+CAN1,Canada,MIS,Mismanaged,2010,0.521308
+CAN1,Canada,LIT,Littered,2010,0.011222
+CAN1,Canada,LAN,Landfilled,2010,4.630027
+CAN1,Canada,TOTAL,Total,2010,5.655139
+CHN1,China,REC,Recycled,2010,3.673289
+CHN1,China,INC,Incinerated,2010,6.874876
+CHN1,China,LAN,Landfilled,2010,12.608753
+CHN1,China,MIS,Mismanaged,2010,17.217424
+CHN1,China,LIT,Littered,2010,0.153783
+CHN1,China,TOTAL,Total,2010,40.528126
+IND1,India,REC,Recycled,2010,0.85249
+IND1,India,INC,Incinerated,2010,0.264545
+IND1,India,LAN,Landfilled,2010,2.75921
+IND1,India,MIS,Mismanaged,2010,5.035518
+IND1,India,LIT,Littered,2010,0.049803
+IND1,India,TOTAL,Total,2010,8.961566
+OAM,Other OECD America,LIT,Littered,2011,0.032174
+ODA,Other non-OECD Asia,TOTAL,Total,2011,14.754169
+OPA,OECD Asia,LAN,Landfilled,2011,2.815645
+OCE,OECD Oceania,MIS,Mismanaged,2011,0.097318
+RAN,Other Eurasia,INC,Incinerated,2011,0.083142
+MEN,Middle East & North Africa,TOTAL,Total,2011,12.039532
+EU5,Other EU,REC,Recycled,2011,0.08362
+OE6,OECD Non-EU,INC,Incinerated,2011,2.353521
+OAM,Other OECD America,INC,Incinerated,2011,0.033027
+ODA,Other non-OECD Asia,LAN,Landfilled,2011,5.709205
+EU5,Other EU,MIS,Mismanaged,2011,0.244083
+OPA,OECD Asia,TOTAL,Total,2011,9.217415
+RAN,Other Eurasia,LIT,Littered,2011,0.036752
+OCE,OECD Oceania,REC,Recycled,2011,0.061935
+O22,OECD EU,TOTAL,Total,2011,44.277868
+MEN,Middle East & North Africa,LAN,Landfilled,2011,6.349112
+OE6,OECD Non-EU,LIT,Littered,2011,0.025276
+ODA,Other non-OECD Asia,INC,Incinerated,2011,0.509363
+EU5,Other EU,LAN,Landfilled,2011,1.507974
+OPA,OECD Asia,LIT,Littered,2011,0.019376
+RAN,Other Eurasia,MIS,Mismanaged,2011,4.78453
+LAM,Latin America,INC,Incinerated,2011,0.05865
+O22,OECD EU,LAN,Landfilled,2011,21.832117
+OAF,Other Africa,REC,Recycled,2011,0.532116
+OE6,OECD Non-EU,MIS,Mismanaged,2011,1.405175
+EU5,Other EU,TOTAL,Total,2011,1.880252
+ODA,Other non-OECD Asia,LIT,Littered,2011,0.072609
+OPA,OECD Asia,INC,Incinerated,2011,5.059242
+LAM,Latin America,LIT,Littered,2011,0.052031
+OAF,Other Africa,MIS,Mismanaged,2011,7.589907
+OE6,OECD Non-EU,REC,Recycled,2011,0.716808
+OAM,Other OECD America,REC,Recycled,2011,0.742939
+ODA,Other non-OECD Asia,MIS,Mismanaged,2011,7.387566
+EU5,Other EU,LIT,Littered,2011,0.005388
+O22,OECD EU,INC,Incinerated,2011,14.373093
+OCE,OECD Oceania,TOTAL,Total,2011,1.116103
+LAM,Latin America,MIS,Mismanaged,2011,6.416618
+O22,OECD EU,LIT,Littered,2011,0.083801
+MEN,Middle East & North Africa,INC,Incinerated,2011,0.051322
+OE6,OECD Non-EU,TOTAL,Total,2011,12.816305
+OAF,Other Africa,LAN,Landfilled,2011,3.380004
+OAM,Other OECD America,MIS,Mismanaged,2011,2.048646
+OCE,OECD Oceania,LAN,Landfilled,2011,0.835674
+RAN,Other Eurasia,REC,Recycled,2011,0.461834
+MEN,Middle East & North Africa,LIT,Littered,2011,0.041416
+LAM,Latin America,REC,Recycled,2011,1.132504
+EU5,Other EU,INC,Incinerated,2011,0.039187
+OE6,OECD Non-EU,LAN,Landfilled,2011,8.315525
+OAF,Other Africa,TOTAL,Total,2011,11.564039
+OAM,Other OECD America,LAN,Landfilled,2011,6.30506
+OPA,OECD Asia,REC,Recycled,2011,0.798455
+RAN,Other Eurasia,TOTAL,Total,2011,11.937538
+OCE,OECD Oceania,INC,Incinerated,2011,0.119109
+LAM,Latin America,TOTAL,Total,2011,13.860681
+MEN,Middle East & North Africa,MIS,Mismanaged,2011,5.072754
+OAF,Other Africa,LIT,Littered,2011,0.062012
+ODA,Other non-OECD Asia,REC,Recycled,2011,1.075426
+OAM,Other OECD America,TOTAL,Total,2011,9.161847
+OPA,OECD Asia,MIS,Mismanaged,2011,0.524697
+O22,OECD EU,REC,Recycled,2011,4.604755
+RAN,Other Eurasia,LAN,Landfilled,2011,6.57128
+OCE,OECD Oceania,LIT,Littered,2011,0.002067
+LAM,Latin America,LAN,Landfilled,2011,6.200877
+O22,OECD EU,MIS,Mismanaged,2011,3.384102
+USA1,United States,INC,Incinerated,2011,11.222986
+MEN,Middle East & North Africa,REC,Recycled,2011,0.524927
+USA1,United States,REC,Recycled,2011,2.284132
+USA1,United States,LAN,Landfilled,2011,46.965328
+USA1,United States,MIS,Mismanaged,2011,3.364751
+USA1,United States,LIT,Littered,2011,0.125776
+USA1,United States,TOTAL,Total,2011,63.962973
+CAN1,Canada,REC,Recycled,2011,0.290475
+CAN1,Canada,INC,Incinerated,2011,0.225832
+CAN1,Canada,LAN,Landfilled,2011,4.740612
+CAN1,Canada,MIS,Mismanaged,2011,0.518913
+CAN1,Canada,LIT,Littered,2011,0.011418
+CAN1,Canada,TOTAL,Total,2011,5.787249
+CHN1,China,REC,Recycled,2011,4.150221
+CHN1,China,INC,Incinerated,2011,7.783855
+CHN1,China,LAN,Landfilled,2011,13.849907
+CHN1,China,MIS,Mismanaged,2011,17.758225
+CHN1,China,LIT,Littered,2011,0.165056
+CHN1,China,TOTAL,Total,2011,43.707263
+IND1,India,REC,Recycled,2011,0.985182
+IND1,India,INC,Incinerated,2011,0.304838
+IND1,India,LAN,Landfilled,2011,3.101074
+IND1,India,MIS,Mismanaged,2011,5.436582
+IND1,India,LIT,Littered,2011,0.055028
+IND1,India,TOTAL,Total,2011,9.882703
+OAM,Other OECD America,LIT,Littered,2012,0.032833
+ODA,Other non-OECD Asia,TOTAL,Total,2012,15.795122
+OPA,OECD Asia,LAN,Landfilled,2012,2.688641
+OCE,OECD Oceania,MIS,Mismanaged,2012,0.099739
+RAN,Other Eurasia,INC,Incinerated,2012,0.088438
+MEN,Middle East & North Africa,TOTAL,Total,2012,12.546322
+EU5,Other EU,REC,Recycled,2012,0.090165
+OE6,OECD Non-EU,INC,Incinerated,2012,2.505559
+OAM,Other OECD America,INC,Incinerated,2012,0.033737
+ODA,Other non-OECD Asia,LAN,Landfilled,2012,6.171062
+EU5,Other EU,MIS,Mismanaged,2012,0.246226
+OPA,OECD Asia,TOTAL,Total,2012,9.517326
+RAN,Other Eurasia,LIT,Littered,2012,0.038165
+OCE,OECD Oceania,REC,Recycled,2012,0.067306
+O22,OECD EU,TOTAL,Total,2012,44.890794
+MEN,Middle East & North Africa,LAN,Landfilled,2012,6.640932
+OE6,OECD Non-EU,LIT,Littered,2012,0.025919
+ODA,Other non-OECD Asia,INC,Incinerated,2012,0.563194
+EU5,Other EU,LAN,Landfilled,2012,1.55822
+OPA,OECD Asia,LIT,Littered,2012,0.019924
+RAN,Other Eurasia,MIS,Mismanaged,2012,4.997677
+LAM,Latin America,INC,Incinerated,2012,0.061751
+O22,OECD EU,LAN,Landfilled,2012,21.374965
+OAF,Other Africa,REC,Recycled,2012,0.576706
+OE6,OECD Non-EU,MIS,Mismanaged,2012,1.398682
+EU5,Other EU,TOTAL,Total,2012,1.941728
+ODA,Other non-OECD Asia,LIT,Littered,2012,0.077382
+OPA,OECD Asia,INC,Incinerated,2012,5.450052
+LAM,Latin America,LIT,Littered,2012,0.054526
+OAF,Other Africa,MIS,Mismanaged,2012,7.947111
+OE6,OECD Non-EU,REC,Recycled,2012,0.772766
+OAM,Other OECD America,REC,Recycled,2012,0.783685
+ODA,Other non-OECD Asia,MIS,Mismanaged,2012,7.800418
+EU5,Other EU,LIT,Littered,2012,0.005521
+OCE,OECD Oceania,TOTAL,Total,2012,1.180188
+LAM,Latin America,MIS,Mismanaged,2012,6.65867
+O22,OECD EU,INC,Incinerated,2012,15.296604
+O22,OECD EU,LIT,Littered,2012,0.084369
+MEN,Middle East & North Africa,INC,Incinerated,2012,0.053755
+OE6,OECD Non-EU,TOTAL,Total,2012,13.193287
+OAF,Other Africa,LAN,Landfilled,2012,3.572269
+OAM,Other OECD America,MIS,Mismanaged,2012,2.070533
+OCE,OECD Oceania,LAN,Landfilled,2012,0.883588
+RAN,Other Eurasia,REC,Recycled,2012,0.49643
+MEN,Middle East & North Africa,LIT,Littered,2012,0.043058
+LAM,Latin America,REC,Recycled,2012,1.228215
+EU5,Other EU,INC,Incinerated,2012,0.041596
+OE6,OECD Non-EU,LAN,Landfilled,2012,8.490361
+OAF,Other Africa,TOTAL,Total,2012,12.161154
+OAM,Other OECD America,LAN,Landfilled,2012,6.450219
+OPA,OECD Asia,REC,Recycled,2012,0.864444
+RAN,Other Eurasia,TOTAL,Total,2012,12.479086
+OCE,OECD Oceania,INC,Incinerated,2012,0.127393
+LAM,Latin America,TOTAL,Total,2012,14.578898
+MEN,Middle East & North Africa,MIS,Mismanaged,2012,5.24484
+OAF,Other Africa,LIT,Littered,2012,0.065068
+ODA,Other non-OECD Asia,REC,Recycled,2012,1.183065
+OAM,Other OECD America,TOTAL,Total,2012,9.371007
+OPA,OECD Asia,MIS,Mismanaged,2012,0.494264
+O22,OECD EU,REC,Recycled,2012,4.897937
+RAN,Other Eurasia,LAN,Landfilled,2012,6.858376
+OCE,OECD Oceania,LIT,Littered,2012,0.002162
+LAM,Latin America,LAN,Landfilled,2012,6.575735
+O22,OECD EU,MIS,Mismanaged,2012,3.23692
+MEN,Middle East & North Africa,REC,Recycled,2012,0.563737
+USA1,United States,REC,Recycled,2012,2.390964
+USA1,United States,INC,Incinerated,2012,11.532263
+USA1,United States,LAN,Landfilled,2012,47.629207
+USA1,United States,MIS,Mismanaged,2012,3.264327
+USA1,United States,LIT,Littered,2012,0.127054
+USA1,United States,TOTAL,Total,2012,64.943815
+CAN1,Canada,REC,Recycled,2012,0.305559
+CAN1,Canada,INC,Incinerated,2012,0.230889
+CAN1,Canada,LAN,Landfilled,2012,4.818247
+CAN1,Canada,MIS,Mismanaged,2012,0.512165
+CAN1,Canada,LIT,Littered,2012,0.011539
+CAN1,Canada,TOTAL,Total,2012,5.878398
+CHN1,China,REC,Recycled,2012,4.619764
+CHN1,China,INC,Incinerated,2012,8.685457
+CHN1,China,LAN,Landfilled,2012,15.017808
+CHN1,China,MIS,Mismanaged,2012,18.039241
+CHN1,China,LIT,Littered,2012,0.175396
+CHN1,China,TOTAL,Total,2012,46.537666
+IND1,India,REC,Recycled,2012,1.124309
+IND1,India,INC,Incinerated,2012,0.347266
+IND1,India,LAN,Landfilled,2012,3.45013
+IND1,India,MIS,Mismanaged,2012,5.808127
+IND1,India,LIT,Littered,2012,0.060186
+IND1,India,TOTAL,Total,2012,10.790019
+OAM,Other OECD America,LIT,Littered,2013,0.033879
+ODA,Other non-OECD Asia,TOTAL,Total,2013,16.966469
+OPA,OECD Asia,LAN,Landfilled,2013,2.568249
+OCE,OECD Oceania,MIS,Mismanaged,2013,0.105509
+RAN,Other Eurasia,INC,Incinerated,2013,0.094321
+MEN,Middle East & North Africa,TOTAL,Total,2013,13.094199
+EU5,Other EU,REC,Recycled,2013,0.097095
+OE6,OECD Non-EU,INC,Incinerated,2013,2.678511
+OAM,Other OECD America,INC,Incinerated,2013,0.034852
+ODA,Other non-OECD Asia,LAN,Landfilled,2013,6.692499
+EU5,Other EU,MIS,Mismanaged,2013,0.248287
+OPA,OECD Asia,TOTAL,Total,2013,9.901136
+RAN,Other Eurasia,LIT,Littered,2013,0.039819
+OCE,OECD Oceania,REC,Recycled,2013,0.075553
+O22,OECD EU,TOTAL,Total,2013,45.709612
+MEN,Middle East & North Africa,LAN,Landfilled,2013,6.956822
+OE6,OECD Non-EU,LIT,Littered,2013,0.026808
+ODA,Other non-OECD Asia,INC,Incinerated,2013,0.624204
+EU5,Other EU,LAN,Landfilled,2013,1.611278
+OPA,OECD Asia,LIT,Littered,2013,0.02071
+RAN,Other Eurasia,MIS,Mismanaged,2013,5.227428
+LAM,Latin America,INC,Incinerated,2013,0.065393
+O22,OECD EU,LAN,Landfilled,2013,20.988884
+OAF,Other Africa,REC,Recycled,2013,0.625352
+OE6,OECD Non-EU,MIS,Mismanaged,2013,1.396987
+OPA,OECD Asia,INC,Incinerated,2013,5.908859
+EU5,Other EU,TOTAL,Total,2013,2.006543
+ODA,Other non-OECD Asia,LIT,Littered,2013,0.083079
+LAM,Latin America,LIT,Littered,2013,0.057503
+OAF,Other Africa,MIS,Mismanaged,2013,8.336551
+OE6,OECD Non-EU,REC,Recycled,2013,0.83429
+OAM,Other OECD America,REC,Recycled,2013,0.831809
+ODA,Other non-OECD Asia,MIS,Mismanaged,2013,8.261432
+EU5,Other EU,LIT,Littered,2013,0.005696
+O22,OECD EU,INC,Incinerated,2013,16.326902
+OCE,OECD Oceania,TOTAL,Total,2013,1.289649
+LAM,Latin America,MIS,Mismanaged,2013,6.927404
+O22,OECD EU,LIT,Littered,2013,0.085663
+MEN,Middle East & North Africa,INC,Incinerated,2013,0.056551
+OE6,OECD Non-EU,TOTAL,Total,2013,13.647551
+OAF,Other Africa,LAN,Landfilled,2013,3.782889
+OAM,Other OECD America,MIS,Mismanaged,2013,2.107337
+OCE,OECD Oceania,LAN,Landfilled,2013,0.965448
+RAN,Other Eurasia,REC,Recycled,2013,0.534135
+MEN,Middle East & North Africa,LIT,Littered,2013,0.044995
+LAM,Latin America,REC,Recycled,2013,1.333962
+EU5,Other EU,INC,Incinerated,2013,0.044187
+OE6,OECD Non-EU,LAN,Landfilled,2013,8.710955
+OAF,Other Africa,TOTAL,Total,2013,12.81345
+OAM,Other OECD America,LAN,Landfilled,2013,6.64708
+OPA,OECD Asia,REC,Recycled,2013,0.9391
+RAN,Other Eurasia,TOTAL,Total,2013,13.064105
+OCE,OECD Oceania,INC,Incinerated,2013,0.140799
+LAM,Latin America,TOTAL,Total,2013,15.377147
+MEN,Middle East & North Africa,MIS,Mismanaged,2013,5.430095
+OAF,Other Africa,LIT,Littered,2013,0.068658
+ODA,Other non-OECD Asia,REC,Recycled,2013,1.305255
+OAM,Other OECD America,TOTAL,Total,2013,9.654957
+OPA,OECD Asia,MIS,Mismanaged,2013,0.464218
+O22,OECD EU,REC,Recycled,2013,5.212043
+RAN,Other Eurasia,LAN,Landfilled,2013,7.168402
+OCE,OECD Oceania,LIT,Littered,2013,0.002339
+LAM,Latin America,LAN,Landfilled,2013,6.992885
+O22,OECD EU,MIS,Mismanaged,2013,3.096118
+MEN,Middle East & North Africa,REC,Recycled,2013,0.605736
+USA1,United States,REC,Recycled,2013,2.497642
+USA1,United States,INC,Incinerated,2013,11.859049
+USA1,United States,LAN,Landfilled,2013,48.33828
+USA1,United States,MIS,Mismanaged,2013,3.160712
+USA1,United States,LIT,Littered,2013,0.128924
+USA1,United States,TOTAL,Total,2013,65.984607
+CAN1,Canada,REC,Recycled,2013,0.321601
+CAN1,Canada,INC,Incinerated,2013,0.237054
+CAN1,Canada,LAN,Landfilled,2013,4.915739
+CAN1,Canada,MIS,Mismanaged,2013,0.506808
+CAN1,Canada,LIT,Littered,2013,0.011754
+CAN1,Canada,TOTAL,Total,2013,5.992956
+CHN1,China,REC,Recycled,2013,5.108443
+CHN1,China,INC,Incinerated,2013,9.629737
+CHN1,China,LAN,Landfilled,2013,16.20427
+CHN1,China,MIS,Mismanaged,2013,18.188501
+CHN1,China,LIT,Littered,2013,0.18612
+CHN1,China,TOTAL,Total,2013,49.317071
+IND1,India,REC,Recycled,2013,1.284454
+IND1,India,LAN,Landfilled,2013,3.853111
+IND1,India,MIS,Mismanaged,2013,6.225948
+IND1,India,INC,Incinerated,2013,0.396676
+IND1,India,LIT,Littered,2013,0.066194
+IND1,India,TOTAL,Total,2013,11.826383
+OAM,Other OECD America,LIT,Littered,2014,0.034041
+ODA,Other non-OECD Asia,TOTAL,Total,2014,18.172365
+OPA,OECD Asia,LAN,Landfilled,2014,2.407567
+OCE,OECD Oceania,MIS,Mismanaged,2014,0.107727
+RAN,Other Eurasia,INC,Incinerated,2014,0.099834
+MEN,Middle East & North Africa,TOTAL,Total,2014,13.61
+EU5,Other EU,REC,Recycled,2014,0.103497
+OE6,OECD Non-EU,INC,Incinerated,2014,2.813809
+OAM,Other OECD America,INC,Incinerated,2014,0.035054
+ODA,Other non-OECD Asia,LAN,Landfilled,2014,7.236724
+EU5,Other EU,MIS,Mismanaged,2014,0.248232
+OPA,OECD Asia,TOTAL,Total,2014,10.197246
+RAN,Other Eurasia,MIS,Mismanaged,2014,5.438804
+RAN,Other Eurasia,LIT,Littered,2014,0.041127
+OCE,OECD Oceania,REC,Recycled,2014,0.081905
+O22,OECD EU,TOTAL,Total,2014,45.922969
+MEN,Middle East & North Africa,LAN,Landfilled,2014,7.257648
+OE6,OECD Non-EU,LIT,Littered,2014,0.027124
+ODA,Other non-OECD Asia,INC,Incinerated,2014,0.689116
+EU5,Other EU,LAN,Landfilled,2014,1.652526
+OPA,OECD Asia,LIT,Littered,2014,0.02122
+LAM,Latin America,INC,Incinerated,2014,0.06829
+O22,OECD EU,LAN,Landfilled,2014,20.298755
+OAF,Other Africa,REC,Recycled,2014,0.671536
+OE6,OECD Non-EU,MIS,Mismanaged,2014,1.3709
+EU5,Other EU,TOTAL,Total,2014,2.056549
+ODA,Other non-OECD Asia,LIT,Littered,2014,0.088472
+OPA,OECD Asia,INC,Incinerated,2014,6.333149
+LAM,Latin America,LIT,Littered,2014,0.059762
+OAF,Other Africa,MIS,Mismanaged,2014,8.664041
+OE6,OECD Non-EU,REC,Recycled,2014,0.884879
+OAM,Other OECD America,REC,Recycled,2014,0.863291
+ODA,Other non-OECD Asia,MIS,Mismanaged,2014,8.723181
+EU5,Other EU,LIT,Littered,2014,0.005799
+O22,OECD EU,INC,Incinerated,2014,17.163419
+OCE,OECD Oceania,TOTAL,Total,2014,1.361787
+LAM,Latin America,MIS,Mismanaged,2014,7.134898
+O22,OECD EU,LIT,Littered,2014,0.085334
+MEN,Middle East & North Africa,INC,Incinerated,2014,0.059016
+OE6,OECD Non-EU,TOTAL,Total,2014,13.887411
+OAF,Other Africa,LAN,Landfilled,2014,3.968332
+OAM,Other OECD America,MIS,Mismanaged,2014,2.098561
+OCE,OECD Oceania,LAN,Landfilled,2014,1.019368
+RAN,Other Eurasia,REC,Recycled,2014,0.570526
+MEN,Middle East & North Africa,LIT,Littered,2014,0.046604
+LAM,Latin America,REC,Recycled,2014,1.433652
+EU5,Other EU,INC,Incinerated,2014,0.046494
+OE6,OECD Non-EU,LAN,Landfilled,2014,8.790699
+OAF,Other Africa,TOTAL,Total,2014,13.375327
+OAM,Other OECD America,LAN,Landfilled,2014,6.702392
+OPA,OECD Asia,REC,Recycled,2014,1.008836
+RAN,Other Eurasia,TOTAL,Total,2014,13.602164
+OCE,OECD Oceania,INC,Incinerated,2014,0.150347
+LAM,Latin America,TOTAL,Total,2014,16.059312
+MEN,Middle East & North Africa,MIS,Mismanaged,2014,5.599134
+OAF,Other Africa,LIT,Littered,2014,0.071418
+ODA,Other non-OECD Asia,REC,Recycled,2014,1.434872
+OAM,Other OECD America,TOTAL,Total,2014,9.733339
+OPA,OECD Asia,MIS,Mismanaged,2014,0.426475
+O22,OECD EU,REC,Recycled,2014,5.466744
+RAN,Other Eurasia,LAN,Landfilled,2014,7.451873
+OCE,OECD Oceania,LIT,Littered,2014,0.002441
+LAM,Latin America,LAN,Landfilled,2014,7.362711
+O22,OECD EU,MIS,Mismanaged,2014,2.908716
+MEN,Middle East & North Africa,REC,Recycled,2014,0.647598
+USA1,United States,REC,Recycled,2014,2.587828
+USA1,United States,INC,Incinerated,2014,12.097834
+USA1,United States,LAN,Landfilled,2014,48.680115
+USA1,United States,MIS,Mismanaged,2014,3.030476
+USA1,United States,LIT,Littered,2014,0.12914
+USA1,United States,TOTAL,Total,2014,66.525393
+CAN1,Canada,REC,Recycled,2014,0.335891
+CAN1,Canada,INC,Incinerated,2014,0.241876
+CAN1,Canada,LAN,Landfilled,2014,4.987383
+CAN1,Canada,MIS,Mismanaged,2014,0.498246
+CHN1,China,REC,Recycled,2014,5.661463
+CAN1,Canada,LIT,Littered,2014,0.01186
+CAN1,Canada,TOTAL,Total,2014,6.075256
+CHN1,China,INC,Incinerated,2014,10.752291
+CHN1,China,LAN,Landfilled,2014,17.638243
+CHN1,China,MIS,Mismanaged,2014,18.450719
+CHN1,China,LIT,Littered,2014,0.197918
+CHN1,China,TOTAL,Total,2014,52.700633
+IND1,India,REC,Recycled,2014,1.457559
+IND1,India,LAN,Landfilled,2014,4.283499
+IND1,India,MIS,Mismanaged,2014,6.64171
+IND1,India,INC,Incinerated,2014,0.45036
+IND1,India,LIT,Littered,2014,0.072188
+IND1,India,TOTAL,Total,2014,12.905315
+OAM,Other OECD America,LIT,Littered,2015,0.036449
+ODA,Other non-OECD Asia,TOTAL,Total,2015,19.637074
+OPA,OECD Asia,LAN,Landfilled,2015,2.256119
+OCE,OECD Oceania,MIS,Mismanaged,2015,0.111547
+RAN,Other Eurasia,INC,Incinerated,2015,0.106897
+MEN,Middle East & North Africa,TOTAL,Total,2015,14.177604
+EU5,Other EU,REC,Recycled,2015,0.111699
+OE6,OECD Non-EU,INC,Incinerated,2015,2.981903
+OAM,Other OECD America,INC,Incinerated,2015,0.037578
+ODA,Other non-OECD Asia,LAN,Landfilled,2015,7.891369
+EU5,Other EU,MIS,Mismanaged,2015,0.250592
+OPA,OECD Asia,TOTAL,Total,2015,10.615935
+RAN,Other Eurasia,LIT,Littered,2015,0.04311
+OCE,OECD Oceania,REC,Recycled,2015,0.090467
+O22,OECD EU,TOTAL,Total,2015,46.68735
+MEN,Middle East & North Africa,LAN,Landfilled,2015,7.58716
+OE6,OECD Non-EU,LIT,Littered,2015,0.027746
+ODA,Other non-OECD Asia,INC,Incinerated,2015,0.766749
+EU5,Other EU,LAN,Landfilled,2015,1.712134
+OPA,OECD Asia,LIT,Littered,2015,0.022005
+RAN,Other Eurasia,MIS,Mismanaged,2015,5.714412
+LAM,Latin America,INC,Incinerated,2015,0.073202
+O22,OECD EU,LAN,Landfilled,2015,19.822582
+OAF,Other Africa,REC,Recycled,2015,0.733364
+OE6,OECD Non-EU,MIS,Mismanaged,2015,1.356361
+EU5,Other EU,TOTAL,Total,2015,2.129813
+ODA,Other non-OECD Asia,LIT,Littered,2015,0.095092
+OPA,OECD Asia,INC,Incinerated,2015,6.850512
+LAM,Latin America,LIT,Littered,2015,0.063798
+OAF,Other Africa,MIS,Mismanaged,2015,9.147928
+OE6,OECD Non-EU,REC,Recycled,2015,0.952709
+OAM,Other OECD America,REC,Recycled,2015,0.955447
+ODA,Other non-OECD Asia,MIS,Mismanaged,2015,9.286759
+EU5,Other EU,LIT,Littered,2015,0.005979
+O22,OECD EU,INC,Incinerated,2015,18.226653
+OCE,OECD Oceania,TOTAL,Total,2015,1.460102
+LAM,Latin America,MIS,Mismanaged,2015,7.503428
+O22,OECD EU,LIT,Littered,2015,0.08611
+MEN,Middle East & North Africa,INC,Incinerated,2015,0.061726
+OE6,OECD Non-EU,TOTAL,Total,2015,14.273745
+OAF,Other Africa,LAN,Landfilled,2015,4.229538
+OAM,Other OECD America,MIS,Mismanaged,2015,2.223751
+OCE,OECD Oceania,LAN,Landfilled,2015,1.092514
+RAN,Other Eurasia,REC,Recycled,2015,0.617758
+MEN,Middle East & North Africa,LIT,Littered,2015,0.048369
+EU5,Other EU,INC,Incinerated,2015,0.049408
+OE6,OECD Non-EU,LAN,Landfilled,2015,8.955026
+LAM,Latin America,REC,Recycled,2015,1.576706
+OAF,Other Africa,TOTAL,Total,2015,14.18654
+OAM,Other OECD America,LAN,Landfilled,2015,7.192255
+OCE,OECD Oceania,INC,Incinerated,2015,0.162978
+OPA,OECD Asia,REC,Recycled,2015,1.097589
+RAN,Other Eurasia,TOTAL,Total,2015,14.30491
+LAM,Latin America,TOTAL,Total,2015,17.134865
+MEN,Middle East & North Africa,MIS,Mismanaged,2015,5.785391
+OAF,Other Africa,LIT,Littered,2015,0.07571
+ODA,Other non-OECD Asia,REC,Recycled,2015,1.597105
+OAM,Other OECD America,TOTAL,Total,2015,10.445481
+OPA,OECD Asia,MIS,Mismanaged,2015,0.38971
+O22,OECD EU,REC,Recycled,2015,5.80231
+RAN,Other Eurasia,LAN,Landfilled,2015,7.822733
+OCE,OECD Oceania,LIT,Littered,2015,0.002596
+LAM,Latin America,LAN,Landfilled,2015,7.917731
+O22,OECD EU,MIS,Mismanaged,2015,2.749696
+MEN,Middle East & North Africa,REC,Recycled,2015,0.694957
+USA1,United States,REC,Recycled,2015,2.70853
+USA1,United States,INC,Incinerated,2015,12.415617
+USA1,United States,LAN,Landfilled,2015,49.323586
+USA1,United States,MIS,Mismanaged,2015,2.91632
+USA1,United States,LIT,Littered,2015,0.130204
+USA1,United States,TOTAL,Total,2015,67.494258
+CAN1,Canada,REC,Recycled,2015,0.354606
+CAN1,Canada,INC,Incinerated,2015,0.248394
+CAN1,Canada,LAN,Landfilled,2015,5.092917
+CAN1,Canada,MIS,Mismanaged,2015,0.492557
+CHN1,China,REC,Recycled,2015,6.255403
+CAN1,Canada,LIT,Littered,2015,0.012051
+CAN1,Canada,TOTAL,Total,2015,6.200524
+CHN1,China,INC,Incinerated,2015,11.857089
+CHN1,China,LAN,Landfilled,2015,18.98366
+CHN1,China,MIS,Mismanaged,2015,18.448486
+CHN1,China,LIT,Littered,2015,0.209108
+CHN1,China,TOTAL,Total,2015,55.753745
+IND1,India,REC,Recycled,2015,1.623198
+IND1,India,INC,Incinerated,2015,0.499804
+IND1,India,LAN,Landfilled,2015,4.662999
+IND1,India,MIS,Mismanaged,2015,6.936626
+IND1,India,LIT,Littered,2015,0.076561
+IND1,India,TOTAL,Total,2015,13.799187
+OAM,Other OECD America,LIT,Littered,2016,0.037174
+ODA,Other non-OECD Asia,TOTAL,Total,2016,20.956341
+OPA,OECD Asia,LAN,Landfilled,2016,2.056114
+OCE,OECD Oceania,MIS,Mismanaged,2016,0.115241
+RAN,Other Eurasia,INC,Incinerated,2016,0.11336
+MEN,Middle East & North Africa,TOTAL,Total,2016,15.118809
+EU5,Other EU,REC,Recycled,2016,0.119842
+OE6,OECD Non-EU,INC,Incinerated,2016,3.161066
+OAM,Other OECD America,INC,Incinerated,2016,0.038364
+ODA,Other non-OECD Asia,LAN,Landfilled,2016,8.500107
+EU5,Other EU,MIS,Mismanaged,2016,0.251989
+OPA,OECD Asia,TOTAL,Total,2016,10.888518
+RAN,Other Eurasia,LIT,Littered,2016,0.044653
+OCE,OECD Oceania,REC,Recycled,2016,0.099474
+O22,OECD EU,TOTAL,Total,2016,47.40894
+MEN,Middle East & North Africa,LAN,Landfilled,2016,8.119819
+OE6,OECD Non-EU,LIT,Littered,2016,0.028402
+ODA,Other non-OECD Asia,INC,Incinerated,2016,0.841779
+EU5,Other EU,LAN,Landfilled,2016,1.767918
+OPA,OECD Asia,LIT,Littered,2016,0.022361
+RAN,Other Eurasia,MIS,Mismanaged,2016,5.959975
+LAM,Latin America,INC,Incinerated,2016,0.074354
+O22,OECD EU,LAN,Landfilled,2016,19.305964
+OAF,Other Africa,REC,Recycled,2016,0.776651
+OE6,OECD Non-EU,MIS,Mismanaged,2016,1.341227
+EU5,Other EU,TOTAL,Total,2016,2.19817
+ODA,Other non-OECD Asia,LIT,Littered,2016,0.100485
+OPA,OECD Asia,INC,Incinerated,2016,7.293018
+LAM,Latin America,LIT,Littered,2016,0.064415
+OAF,Other Africa,MIS,Mismanaged,2016,9.381436
+OE6,OECD Non-EU,REC,Recycled,2016,1.020662
+OAM,Other OECD America,REC,Recycled,2016,1.005013
+ODA,Other non-OECD Asia,MIS,Mismanaged,2016,9.764632
+EU5,Other EU,LIT,Littered,2016,0.006134
+O22,OECD EU,INC,Incinerated,2016,19.319363
+OCE,OECD Oceania,TOTAL,Total,2016,1.563965
+LAM,Latin America,MIS,Mismanaged,2016,7.568952
+O22,OECD EU,LIT,Littered,2016,0.08692
+MEN,Middle East & North Africa,INC,Incinerated,2016,0.066562
+OE6,OECD Non-EU,TOTAL,Total,2016,14.682829
+OAF,Other Africa,LAN,Landfilled,2016,4.377538
+OAM,Other OECD America,MIS,Mismanaged,2016,2.244823
+OCE,OECD Oceania,LAN,Landfilled,2016,1.170018
+RAN,Other Eurasia,REC,Recycled,2016,0.661115
+MEN,Middle East & North Africa,LIT,Littered,2016,0.051859
+EU5,Other EU,INC,Incinerated,2016,0.052287
+OE6,OECD Non-EU,LAN,Landfilled,2016,9.131472
+LAM,Latin America,REC,Recycled,2016,1.659917
+OAF,Other Africa,TOTAL,Total,2016,14.612848
+OAM,Other OECD America,LAN,Landfilled,2016,7.353758
+OPA,OECD Asia,REC,Recycled,2016,1.17305
+RAN,Other Eurasia,TOTAL,Total,2016,14.930472
+OCE,OECD Oceania,INC,Incinerated,2016,0.176487
+LAM,Latin America,TOTAL,Total,2016,17.534104
+MEN,Middle East & North Africa,MIS,Mismanaged,2016,6.118184
+OAF,Other Africa,LIT,Littered,2016,0.077222
+ODA,Other non-OECD Asia,REC,Recycled,2016,1.749339
+OAM,Other OECD America,TOTAL,Total,2016,10.679133
+OPA,OECD Asia,MIS,Mismanaged,2016,0.343975
+O22,OECD EU,REC,Recycled,2016,6.115516
+RAN,Other Eurasia,LAN,Landfilled,2016,8.151369
+OCE,OECD Oceania,LIT,Littered,2016,0.002746
+LAM,Latin America,LAN,Landfilled,2016,8.166467
+O22,OECD EU,MIS,Mismanaged,2016,2.581177
+MEN,Middle East & North Africa,REC,Recycled,2016,0.762385
+USA1,United States,REC,Recycled,2016,2.864726
+USA1,United States,INC,Incinerated,2016,12.909279
+USA1,United States,LAN,Landfilled,2016,50.635927
+USA1,United States,MIS,Mismanaged,2016,2.835037
+USA1,United States,LIT,Littered,2016,0.133172
+CAN1,Canada,REC,Recycled,2016,0.370701
+CAN1,Canada,INC,Incinerated,2016,0.252534
+CAN1,Canada,LAN,Landfilled,2016,5.145813
+CAN1,Canada,MIS,Mismanaged,2016,0.481545
+CAN1,Canada,LIT,Littered,2016,0.012089
+CAN1,Canada,TOTAL,Total,2016,6.262683
+CHN1,China,REC,Recycled,2016,6.801136
+CHN1,China,INC,Incinerated,2016,12.932418
+CHN1,China,LAN,Landfilled,2016,20.235727
+CHN1,China,MIS,Mismanaged,2016,18.205877
+CHN1,China,LIT,Littered,2016,0.217909
+CHN1,China,TOTAL,Total,2016,58.393067
+IND1,India,REC,Recycled,2016,1.824238
+USA1,United States,TOTAL,Total,2016,69.378141
+IND1,India,INC,Incinerated,2016,0.561943
+IND1,India,LAN,Landfilled,2016,5.145957
+IND1,India,MIS,Mismanaged,2016,7.340763
+IND1,India,LIT,Littered,2016,0.082559
+IND1,India,TOTAL,Total,2016,14.955459
+OAM,Other OECD America,LIT,Littered,2017,0.037769
+ODA,Other non-OECD Asia,TOTAL,Total,2017,22.557034
+OPA,OECD Asia,LAN,Landfilled,2017,1.854827
+OCE,OECD Oceania,MIS,Mismanaged,2017,0.120137
+RAN,Other Eurasia,INC,Incinerated,2017,0.120433
+MEN,Middle East & North Africa,TOTAL,Total,2017,15.802218
+EU5,Other EU,REC,Recycled,2017,0.129428
+OE6,OECD Non-EU,INC,Incinerated,2017,3.382451
+OAM,Other OECD America,INC,Incinerated,2017,0.03902
+ODA,Other non-OECD Asia,LAN,Landfilled,2017,9.235472
+EU5,Other EU,MIS,Mismanaged,2017,0.255199
+OCE,OECD Oceania,REC,Recycled,2017,0.11038
+OPA,OECD Asia,TOTAL,Total,2017,11.242962
+RAN,Other Eurasia,LIT,Littered,2017,0.046399
+O22,OECD EU,TOTAL,Total,2017,48.541291
+MEN,Middle East & North Africa,LAN,Landfilled,2017,8.518126
+OE6,OECD Non-EU,LIT,Littered,2017,0.029432
+ODA,Other non-OECD Asia,INC,Incinerated,2017,0.93125
+EU5,Other EU,LAN,Landfilled,2017,1.840215
+OPA,OECD Asia,LIT,Littered,2017,0.022881
+RAN,Other Eurasia,MIS,Mismanaged,2017,6.223548
+LAM,Latin America,INC,Incinerated,2017,0.076591
+O22,OECD EU,LAN,Landfilled,2017,18.915927
+OAF,Other Africa,REC,Recycled,2017,0.823244
+OE6,OECD Non-EU,MIS,Mismanaged,2017,1.336966
+EU5,Other EU,TOTAL,Total,2017,2.286959
+ODA,Other non-OECD Asia,LIT,Littered,2017,0.107254
+OPA,OECD Asia,INC,Incinerated,2017,7.809137
+LAM,Latin America,LIT,Littered,2017,0.065998
+OAF,Other Africa,MIS,Mismanaged,2017,9.643507
+OE6,OECD Non-EU,REC,Recycled,2017,1.101144
+OAM,Other OECD America,REC,Recycled,2017,1.052668
+ODA,Other non-OECD Asia,MIS,Mismanaged,2017,10.353667
+EU5,Other EU,LIT,Littered,2017,0.006362
+O22,OECD EU,INC,Incinerated,2017,20.62482
+OCE,OECD Oceania,TOTAL,Total,2017,1.693263
+MEN,Middle East & North Africa,INC,Incinerated,2017,0.06997
+LAM,Latin America,MIS,Mismanaged,2017,7.712183
+O22,OECD EU,LIT,Littered,2017,0.08877
+OE6,OECD Non-EU,TOTAL,Total,2017,15.254011
+OAF,Other Africa,LAN,Landfilled,2017,4.54164
+OAM,Other OECD America,MIS,Mismanaged,2017,2.259366
+OCE,OECD Oceania,LAN,Landfilled,2017,1.26665
+RAN,Other Eurasia,REC,Recycled,2017,0.708417
+MEN,Middle East & North Africa,LIT,Littered,2017,0.054119
+LAM,Latin America,REC,Recycled,2017,1.762215
+EU5,Other EU,INC,Incinerated,2017,0.055754
+OE6,OECD Non-EU,LAN,Landfilled,2017,9.404018
+OAF,Other Africa,TOTAL,Total,2017,15.087484
+OAM,Other OECD America,LAN,Landfilled,2017,7.498078
+OPA,OECD Asia,REC,Recycled,2017,1.259005
+RAN,Other Eurasia,TOTAL,Total,2017,15.60294
+OCE,OECD Oceania,INC,Incinerated,2017,0.193165
+LAM,Latin America,TOTAL,Total,2017,18.127757
+MEN,Middle East & North Africa,MIS,Mismanaged,2017,6.342768
+OAF,Other Africa,LIT,Littered,2017,0.079093
+ODA,Other non-OECD Asia,REC,Recycled,2017,1.92939
+OAM,Other OECD America,TOTAL,Total,2017,10.8869
+OPA,OECD Asia,MIS,Mismanaged,2017,0.297112
+O22,OECD EU,REC,Recycled,2017,6.487726
+RAN,Other Eurasia,LAN,Landfilled,2017,8.504143
+OCE,OECD Oceania,LIT,Littered,2017,0.00293
+LAM,Latin America,LAN,Landfilled,2017,8.510771
+O22,OECD EU,MIS,Mismanaged,2017,2.424047
+MEN,Middle East & North Africa,REC,Recycled,2017,0.817235
+USA1,United States,REC,Recycled,2017,2.980488
+USA1,United States,INC,Incinerated,2017,13.213204
+USA1,United States,LAN,Landfilled,2017,51.174166
+USA1,United States,MIS,Mismanaged,2017,2.703756
+USA1,United States,LIT,Littered,2017,0.134351
+USA1,United States,TOTAL,Total,2017,70.205965
+CAN1,Canada,REC,Recycled,2017,0.390651
+CAN1,Canada,INC,Incinerated,2017,0.260052
+CAN1,Canada,LAN,Landfilled,2017,5.265962
+CAN1,Canada,MIS,Mismanaged,2017,0.47597
+CAN1,Canada,LIT,Littered,2017,0.012348
+CAN1,Canada,TOTAL,Total,2017,6.404984
+CHN1,China,REC,Recycled,2017,7.363416
+CHN1,China,INC,Incinerated,2017,14.093147
+CHN1,China,LAN,Landfilled,2017,21.578175
+CHN1,China,MIS,Mismanaged,2017,17.901154
+CHN1,China,LIT,Littered,2017,0.22648
+CHN1,China,TOTAL,Total,2017,61.162372
+IND1,India,REC,Recycled,2017,2.039447
+IND1,India,INC,Incinerated,2017,0.629297
+IND1,India,LAN,Landfilled,2017,5.66324
+IND1,India,MIS,Mismanaged,2017,7.743059
+IND1,India,LIT,Littered,2017,0.088648
+IND1,India,TOTAL,Total,2017,16.163692

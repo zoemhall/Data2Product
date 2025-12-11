@@ -1,0 +1,28 @@
+---
+title: "PrescriptiveForecasting"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Looking at different forecasting methods with the prescriptive data created in section ~ 2 Testing prescriptive models
+
+```{r load and plot central tendency}
+OwnWaste <- read.csv("prescriptive data/Final_Country_Waste_Analysis copy.csv", header=TRUE)
+  select(Country, Year, Processed_Own_Waste)
+  rename(
+    Qty = Processed_Own_Waste
+  ) %>%
+  group_by(Year) %>%
+  mutate(Qty = Qty * 1e9) %>% # from 1 Million Tonnes to Kg
+  summarise(
+    Qty = sum(Qty, na.rm = TRUE),
+  ) %>%
+  as_tsibble(index = Year)
+
+# Display the first few rows
+head(OwnWaste)
+
+```

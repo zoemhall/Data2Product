@@ -1,0 +1,13 @@
+"Model","Metric (Approach)","Root Mean Sq Error","Mean Abs Error","% Error (MAPE)"
+"Mean","Exports_Mil",182.71,158.28,57.41
+"ARIMA","Exports_Mil",214.02,162.88,112.74
+"ETS","Exports_Mil",254.97,202.64,135.98
+"ETS","Imports_Mil",43.95,36.9,29.95
+"ARIMA","Imports_Mil",44.47,35.58,28.07
+"Mean","Imports_Mil",72.76,67.69,58.69
+"Mean","Percent_Own",4.6,3.34,42.32
+"ETS","Percent_Own",6.92,5.48,74.76
+"ARIMA","Percent_Own",10.87,9.3,143.85
+"Mean","Processed_Own_Mil",0,0,47.62
+"ETS","Processed_Own_Mil",0,0,82.63
+"ARIMA","Processed_Own_Mil",0,0,94.75
